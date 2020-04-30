@@ -1,0 +1,33 @@
+table.user-registration-table {
+	width: 100%;
+	background: $white;
+	border-collapse: collapse;
+
+	caption,
+	th,
+	td {
+		padding: 1rem;
+		text-align: left;
+		border-bottom: 1px solid $border-color;
+	}
+
+	caption,
+	th {
+		font-size: 14px;
+		font-weight: 500;
+	}
+
+	thead {
+		th {
+			background: lighten($color_gray_five, 3%);;
+		}
+	}
+
+	input,
+	select,
+	textarea {
+		width: 100%;
+		box-shadow: none;
+		border-radius: 4px;
+	}
+}

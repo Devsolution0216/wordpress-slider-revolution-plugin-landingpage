@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Mocha Tests</title>
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="../icon-fonts/elusive-icons-2.0.0/css/elusive-icons.min.css"/>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css"/>
+    <link rel="stylesheet" href="http://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css"/>
+    <link rel="stylesheet" href="../icon-fonts/map-icons-2.1.0/css/map-icons.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/material-design-iconic-font/2.2.0/css/material-design-iconic-font.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/font/octicons.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/typicons/2.0.9/typicons.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/weather-icons/2.0.10/css/weather-icons.min.css"/>
+    <link rel="stylesheet" href="../dist/css/bootstrap-iconpicker.min.css"/>
+
+    <link rel="stylesheet" href="../node_modules/mocha/mocha.css">
+
+  </head>
+  <body>
+
+    <div id="demos" style="display: none;">
+
+        <!-- Button tag -->
+        <button id="demo_101" class="btn btn-secondary" role="iconpicker"></button>
+        <!-- Div tag -->
+        <div id="demo_102" role="iconpicker"></div>
+
+        <!-- Example 1 -->
+        <button id="demo_201" class="btn btn-secondary" data-iconset="ionicon" data-icon="ion-ionic" role="iconpicker"></button>
+        <!-- Example 2 -->
+        <button id="demo_202" class="btn btn-secondary" data-iconset="fontawesome5" data-icon="fas fa-wifi" role="iconpicker"></button>
+        <!-- Example 3 -->
+        <button id="demo_203" class="btn btn-secondary" data-iconset="weathericon" data-icon="wi-day-rain" role="iconpicker"></button>
+        <!-- Example 4 -->
+        <button id="demo_204" class="btn btn-secondary" data-iconset="mapicon" data-icon="map-icon-walking" role="iconpicker"></button>
+        <!-- Example 5 -->
+        <button id="demo_205" class="btn btn-secondary" data-iconset="octicon" data-icon="octicon-bug" role="iconpicker"></button>
+        <!-- Example 6 -->
+        <button id="demo_206" class="btn btn-secondary" data-iconset="typicon" data-icon="typcn-anchor" role="iconpicker"></button>
+        <!-- Example 7 -->
+        <button id="demo_207" class="btn btn-secondary" data-iconset="elusiveicon" data-icon="el-icon-female" role="iconpicker"></button>
+        <!-- Example 8 -->
+        <button id="demo_208" class="btn btn-secondary" data-iconset="materialdesign" data-icon="zmdi-card-sd" role="iconpicker"></button>
+        <!-- Example 9 -->
+        <button id="demo_209" class="btn btn-secondary" data-iconset="flagicon" data-icon="flag-icon-mx" role="iconpicker"></button>
+        <!-- Example 10 -->
+        <button id="demo_210" class="btn btn-secondary" data-iconset="weathericon" data-iconset-version="2.0.10" data-icon="wi-day-rain" role="iconpicker"></button>
+
+        <!-- Example 1 -->
+        <div id="demo_301" data-search="true" data-search-text="Search..." role="iconpicker"></div>
+        <!-- Example 2 -->
+        <div id="demo_302" data-search="false" role="iconpicker"></div>
+
+        <!-- Example 1 -->
+        <div id="demo_401" data-label-header="{0} - {1} pages" data-label-footer="{0} - {1} of {2} icons" role="iconpicker"></div>
+        <!-- Example 2 -->
+        <div id="demo_402" data-header="false" data-footer="false" role="iconpicker"></div>
+
+        <div id="demo_501" data-rows="3" data-cols="6" role="iconpicker"></div>
+
+        <!-- Example 1 -->
+        <div id="demo_601" data-align="left" role="iconpicker"></div>
+        <!-- Example 2 -->
+        <div id="demo_602" data-align="center" role="iconpicker"></div>
+        <!-- Example 3 -->
+        <div id="demo_603" data-align="right" role="iconpicker"></div>
+
+        <!-- Example 1 -->
+        <button id="demo_701" class="btn btn-secondary" data-placement="left" data-icon="fas fa-arrow-left" role="iconpicker"></button>
+        <!-- Example 2 -->
+        <button id="demo_702" class="btn btn-secondary" data-placement="top" data-icon="fas fa-arrow-up" role="iconpicker"></button>
+        <!-- Example 3 -->
+        <button id="demo_703" class="btn btn-secondary" data-placement="bottom" data-icon="fas fa-arrow-down" role="iconpicker"></button>
+        <!-- Example 4 -->
+        <button id="demo_704" class="btn btn-secondary" data-placement="right" data-icon="fas fa-arrow-right" role="iconpicker"></button>
+
+        <div id="demo_801" data-arrow-class="btn-success" data-arrow-prev-icon-class="fas fa-angle-left" data-arrow-next-icon-class="fas fa-angle-right" role="iconpicker"></div>
+
+        <div id="demo_802" data-selected-class="btn-danger" data-unselected-class="btn-info" role="iconpicker"></div>
+
+        <!-- Example 1 -->
+        <button id="demo_901" class="btn btn-default" role="iconpicker"></button>
+        <!-- Example 2 -->
+        <button id="demo_902" class="btn btn-primary" role="iconpicker"></button>
+        <!-- Example 3 -->
+        <button id="demo_903" class="btn btn-success" role="iconpicker"></button>
+        <!-- Example 4 -->
+        <button id="demo_904" class="btn btn-warning" role="iconpicker"></button>
+        <!-- Example 5 -->
+        <button id="demo_905" class="btn btn-danger" role="iconpicker"></button>
+        <!-- Example 6 -->
+        <button id="demo_906" class="btn btn-info" role="iconpicker"></button>
+
+    </div>
+
+    <div id="mocha"></div>
+    <script src="../node_modules/mocha/mocha.js"></script>
+    <script src="../node_modules/chai/chai.js"></script>
+    <script src="../bower_components/sinonjs/sinon.js"></script>
+    <script>mocha.setup('bdd');</script>
+
+    <!-- load code you want to test here -->
+
+    <script type="text/javascript" src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <script type="text/javascript" src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.bundle.min.js"></script>    
+    <script type="text/javascript" src="../dist/js/bootstrap-iconpicker.bundle.min.js"></script>
+
+    <script src="test.js"></script>
+
+    <script>mocha.run();</script>
+
+  </body>
+</html>

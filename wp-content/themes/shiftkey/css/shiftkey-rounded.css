@@ -1,0 +1,13 @@
+.shiftkey-layout-rounded.woocommerce div.product .woocommerce-tabs ul.tabs li.active a, 
+.shiftkey-layout-rounded.wpb-js-composer .vc_tta-tabs.vc_tta-tabs-position-top.vc_tta-style-shiftkey .vc_tta-tabs-list .vc_active a,
+.shiftkey-layout-rounded.woocommerce div.product .woocommerce-tabs ul.tabs, 
+.shiftkey-layout-rounded.wpb-js-composer .vc_tta-tabs.vc_tta-tabs-position-top.vc_tta-style-shiftkey .vc_tta-tabs-list,
+.shiftkey-layout-rounded.woocommerce button.button:disabled, 
+.shiftkey-layout-rounded.woocommerce button.button:disabled[disabled], 
+.shiftkey-layout-rounded.woocommerce .woocommerce-widget-layered-nav-dropdown__submit, 
+.shiftkey-layout-rounded.woocommerce #respond input#submit, 
+.shiftkey-layout-rounded.woocommerce a.button, 
+.shiftkey-layout-rounded.woocommerce button.button, 
+.shiftkey-layout-rounded .woocommerce input.button,
+.shiftkey-layout-rounded .portfolio-filter .btn-group > .btn,
+.shiftkey-layout-rounded .btn{ border-radius: 100px; -moz-border-radius: 100px; -webkit-border-radius: 100px; }

@@ -1,0 +1,239 @@
+body.wp-admin.appearance_page_brand_setting_page,
+body.toplevel_page_brand_setting_page  {
+  background-color: #F3F6F8;
+}
+
+.appearance_page_brand_setting_page #wpcontent,
+.toplevel_page_brand_setting_page #wpcontent {
+  padding-left:0;
+}
+
+.appearance_page_brand_setting_page .wrap,
+.appearance_page_brand_setting_page-contact .wrap,
+.appearance_page_brand_setting_page-account .wrap,
+.appearance_page_brand_setting_page-pricing .wrap,
+.toplevel_page_brand_setting_page .wrap {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.appearance_page_brand_setting_page .nav-tab-wrapper,
+.appearance_page_brand_setting_page-contact .nav-tab-wrapper,
+.appearance_page_brand_setting_page-account .nav-tab-wrapper,
+.appearance_page_brand_setting_page-pricing .nav-tab-wrapper,
+.toplevel_page_brand_setting_page .nav-tab-wrapper {
+	background: #ffffff;
+	box-shadow: 0 0 0 1px rgba(200,215,225,.5),0 1px 2px #e9eff3;
+	box-sizing: border-box;
+}
+
+.appearance_page_brand_setting_page .plugin-title,
+.toplevel_page_brand_setting_page .plugin-title {
+  text-align: center;
+}
+
+.appearance_page_brand_setting_page .subscribe,
+.appearance_page_brand_setting_page .support,
+.toplevel_page_brand_setting_page .subscribe,
+.toplevel_page_brand_setting_page .support  {
+  position:relative;
+  padding: 20px;
+  margin-bottom: 10px;
+  background: #ffffff;
+  box-shadow: 0 0 0 1px rgba(200,215,225,.5),0 1px 2px #e9eff3;
+  box-sizing: border-box;
+}
+
+.appearance_page_brand_setting_page .subscribe .description,
+.toplevel_page_brand_setting_page .subscribe .description {
+  width:70%;
+  float:left;
+}
+
+.appearance_page_brand_setting_page .subscribe .button-link,
+.toplevel_page_brand_setting_page .subscribe .button-link {
+  float:right;
+}
+
+.appearance_page_brand_setting_page .clearfix,
+.toplevel_page_brand_setting_page .clearfix {
+  clear: both;
+}
+
+.appearance_page_brand_setting_page p,
+.toplevel_page_brand_setting_page p {
+  font-size:0.9rem;
+}
+
+.appearance_page_brand_setting_page p.submit,
+.toplevel_page_brand_setting_page p.submit {
+  position: absolute;
+  bottom: -100px;
+  left: 0;
+  width: 100%;
+  text-align: center;
+}
+
+.appearance_page_brand_setting_page .support a,
+.toplevel_page_brand_setting_page .support a {
+  display: block;
+  text-decoration: none;
+}
+
+.appearance_page_brand_setting_page form tr,
+.toplevel_page_brand_setting_page form tr {
+  border-bottom: 1px solid #eee;
+}
+
+.appearance_page_brand_setting_page form tr:last-child,
+.toplevel_page_brand_setting_page form tr:last-child {
+  border-bottom: 0;
+}
+
+.appearance_page_brand_setting_page form th,
+.toplevel_page_brand_setting_page form th {
+  width: auto;
+  vertical-align: middle;
+  font-weight: normal;;
+}
+
+.appearance_page_brand_setting_page input.regular-text,
+.toplevel_page_brand_setting_page input.regular-text {
+    padding: 10px;
+}
+
+.switch {
+  position: relative;
+  display: inline-block;
+  width: 60px;
+  height: 34px;
+}
+
+.switch input {display:none;}
+
+.switcher-slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #ccc;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+.switcher-slider:before {
+  position: absolute;
+  content: "";
+  height: 26px;
+  width: 26px;
+  left: 4px;
+  bottom: 4px;
+  background-color: white;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+input:checked + .switcher-slider {
+  background-color: #2196F3;
+}
+
+input:focus + .switcher-slider {
+  box-shadow: 0 0 1px #2196F3;
+}
+
+input:checked + .switcher-slider:before {
+  -webkit-transform: translateX(26px);
+  -ms-transform: translateX(26px);
+  transform: translateX(26px);
+}
+
+/* Rounded sliders */
+.switcher-slider.round {
+  border-radius: 34px;
+}
+
+.switcher-slider.round:before {
+  border-radius: 50%;
+}
+
+/* Tabs Styles */
+ul.nav-tab-wrapper {
+    background: #fff;
+    box-shadow: 0 0 0 1px rgba(200,215,225,.5),0 1px 2px #e9eff3;
+    padding:0;
+    margin:10px 0;
+}
+
+ul.nav-tab-wrapper li {
+  margin-bottom:0;
+}
+
+a.nav-tab, a.nav-tab:active, a.nav-tab:focus {
+    border: 0;
+    border-bottom: 2px solid #fff;
+    background: inherit;
+    padding: 15px;
+    color:#0087be;
+    box-shadow: none;
+}
+
+a.nav-tab:hover {
+    color:#00A0D5;
+    background:transparent;
+}
+
+a.nav-tab.nav-tab-active {
+    border-bottom: 2px solid #2e4453;
+    color: #2e4453
+}
+
+/* Subscribe form */
+.toplevel_page_brand_setting_page .subscribe-form,
+.appearance_page_brand_setting_page .subscribe-form {
+	position:relative;
+	overflow: hidden;
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: space-between;
+  align-items: center;
+  min-height:150px;
+  padding:20px;
+  background-color:#2C3644;
+  color:#8b95a4;
+  text-align:center;
+}
+
+.toplevel_page_brand_setting_page .subscribe-form:before,
+.appearance_page_brand_setting_page .subscribe-form:before {
+	content: '\f465';
+	position: absolute;
+	top: 30px;
+	right: -50px;
+	font-family: 'Dashicons';
+	font-size: 240px;
+	transform: rotate(45deg);
+	opacity: 0.1;
+}
+
+.toplevel_page_brand_setting_page .subscribe-form h2,
+.appearance_page_brand_setting_page .subscribe-form h2 {
+  color:#ffffff;
+}
+
+.toplevel_page_brand_setting_page .subscribe-form p,
+.appearance_page_brand_setting_page .subscribe-form p {
+	color:#8b95a4;
+}
+
+
+.toplevel_page_brand_setting_page .subscribe-form input,
+.appearance_page_brand_setting_page .subscribe-form input {
+  width:100%;
+  height:35px;
+  background-color: #404c5d;
+  color:#808c9c;
+  border:0;
+  text-align: center;
+}

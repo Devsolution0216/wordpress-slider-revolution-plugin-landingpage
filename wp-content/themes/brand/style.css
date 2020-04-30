@@ -1,0 +1,69 @@
+/*
+Theme Name: Brand
+Theme URI: https://www.wp-brandtheme.com/
+Author: Massimo Sanfelice - Maxsdesign
+Description: Brand is a fast, lightweight, flexible WordPress theme. It is also mobile and tablet responsive. Cross browser compatible, Brand is easily customizable: add a slider, an image or a video on the front page, change colors, typography, enable and disable elements, add left or right sidebar and much more. To start building your website navigate to Appearance > Customize. Then take a look at our amazing add-ons at https://www.wp-brandtheme.com/add-ons.
+Version: 1.9
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: brand
+Tags: right-sidebar, left-sidebar, footer-widgets, blog, e-commerce, photography, custom-header, custom-background, custom-menu, custom-colors, sticky-post, threaded-comments, translation-ready, featured-images
+
+Brand WordPress Theme, Copyright 2017 Massimo Sanfelice | Maxsdesign
+Brand is distributed under the terms of the GNU GPL
+*/
+
+.wp-caption {
+	margin-bottom: 1.75em;
+	max-width: 100%;
+}
+
+.wp-caption .wp-caption-text {
+	color: #686868;
+	font-size: 13px;
+	font-size: 0.8125rem;
+	font-style: italic;
+	line-height: 1.6153846154;
+	padding-top: 0.5384615385em;
+}
+
+.sticky .entry-title a {
+	font-weight:bolder;
+}
+
+article.sticky:after {
+	content: "\f08d";
+	position: absolute;
+	top: 0;
+	right: 10px;
+	font-family: FontAwesome;
+	font-size: 2.5rem;
+}
+
+.gallery-caption {
+	font-style: italic;
+}
+
+.bypostauthor .comment-body {
+    padding-top: 5px;
+    border-top: 5px solid #1ebaf3;
+}
+
+.alignleft {
+	float: left;
+}
+
+.alignright {
+	float: right;
+}
+
+.aligncenter {
+	clear: both;
+	display: block;
+	margin: 0 auto;
+}
+
+#wp-custom-header .customize-partial-edit-shortcut {
+	top:50%;
+	left:2%;
+}

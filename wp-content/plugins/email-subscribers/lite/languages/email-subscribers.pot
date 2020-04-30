@@ -1,0 +1,2938 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Email Subscribers & Newsletters\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-03-03 09:11+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.0; wp-5.2.3"
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/email-subscribers.php:58
+#, php-format
+msgid ""
+"You are using older version of <strong>Email Subscribers Premium</strong> "
+"plugin. It won't work because it needs plugin to be updated. Please update "
+"%s plugin."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/email-subscribers.php:59
+msgid "Email Subscribers Premium"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/inc/ig-upgrade-v-0.4.6.php:931
+msgid "Check for updates"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/inc/ig-upgrade-v-0.4.6.php:932
+msgid "Docs"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/inc/ig-upgrade-v-0.4.6.php:933
+msgid "Go Pro"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/inc/ig-upgrade-v-0.4.6.php:936
+msgid "Disconnect from Icegram"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/inc/ig-upgrade-v-0.4.6.php:938
+msgid "Connect to Icegram"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/pro/pro-class-email-subscribers.php:102
+msgid "Sequence"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/pro/pro-class-email-subscribers.php:189
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/pro/pro-class-email-subscribers.php:476
+msgid "Google Analytics link tracking"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/pro/pro-class-email-subscribers.php:190
+msgid "Get Spam Score"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/pro/pro-class-email-subscribers.php:200
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/pro/pro-class-email-subscribers.php:477
+msgid "Campaign Name"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/pro/pro-class-email-subscribers.php:200
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/pro/pro-class-email-subscribers.php:477
+msgid ""
+"This will be appended to every URL in this template with parameters: "
+"utm_source=es&utm_medium=email&utm_campaign=campaign_name "
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/pro/pro-class-email-subscribers.php:208
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/pro/pro-class-email-subscribers.php:483
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/pro/pro-class-sequences.php:358
+msgid "Check"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/pro/pro-class-email-subscribers.php:212
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/pro/pro-class-email-subscribers.php:487
+msgid "Awesome score. Your email is almost perfect."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/pro/pro-class-email-subscribers.php:213
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/pro/pro-class-email-subscribers.php:488
+msgid "Ouch! your email needs improvement. "
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/pro/pro-class-email-subscribers.php:215
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/pro/pro-class-email-subscribers.php:490
+msgid "Here are some things to fix: "
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/pro/pro-class-email-subscribers.php:409
+msgid "Clean My List"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/pro/pro-class-email-subscribers.php:410
+msgid "List cleanup is in progress..."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/pro/pro-class-email-subscribers.php:411
+msgid "List cleanup completed successfully."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/pro/pro-class-email-subscribers.php:419
+msgid "Email Status"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/pro/pro-class-email-subscribers.php:455
+msgid "Email Sent Successfully "
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/pro/pro-class-email-subscribers.php:456
+msgid "Something went wrong. Please try again later"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/pro/pro-class-email-subscribers.php:460
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/pro/pro-class-sequences.php:382
+msgid "When to send"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/pro/pro-class-email-subscribers.php:462
+msgid "Date"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/pro/pro-class-email-subscribers.php:468
+msgid "Time"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/pro/pro-class-email-subscribers.php:471
+msgid "Local time is "
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/pro/pro-class-email-subscribers.php:482
+msgid "Get spam score"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/pro/pro-class-email-subscribers.php:500
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/class-email-subscribers-admin.php:413
+msgid "Something went wrong"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/pro/pro-class-email-subscribers.php:522
+msgid "SUCCESS"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/pro/pro-class-email-subscribers.php:533
+msgid "Select page"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/pro/pro-class-email-subscribers.php:568
+msgid "Track Clicks"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/pro/pro-class-email-subscribers.php:570
+msgid "Check this if you want to track link clicks."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/pro/pro-class-email-subscribers.php:622
+msgid "Clicked"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/pro/pro-class-post-digest.php:24
+msgid "Post Digest"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/pro/pro-class-post-digest.php:37
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-post-notifications.php:284
+msgid "Select template"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/pro/pro-class-post-digest.php:38
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-post-notifications.php:285
+msgid "Content of the selected template will be sent out as post notification."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/pro/pro-class-post-digest.php:56
+msgid "Is a post digest?"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/pro/pro-class-post-digest.php:57
+msgid "."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/pro/pro-class-post-digest.php:77
+msgid "Number of post"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/pro/pro-class-post-digest.php:78
+msgid "Mentioned the number of post to include in post digest"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/pro/pro-class-post-digest.php:86
+msgid "Schedules at"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/pro/pro-class-post-digest.php:87
+msgid "When to send?"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/pro/pro-class-post-digest.php:110
+msgid "Once a day at..."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/pro/pro-class-post-digest.php:111
+msgid "Weekly on..."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/pro/pro-class-post-digest.php:112
+msgid "Monthly on the..."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/pro/pro-class-post-digest.php:114
+msgid "Immediately"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/pro/pro-class-post-digest.php:117
+msgid "1st"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/pro/pro-class-post-digest.php:118
+msgid "2nd"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/pro/pro-class-post-digest.php:119
+msgid "3rd"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/pro/pro-class-post-digest.php:120
+msgid "Last"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/pro/pro-class-post-digest.php:123
+msgid "Sunday"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/pro/pro-class-post-digest.php:124
+msgid "Monday"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/pro/pro-class-post-digest.php:125
+msgid "Tuesday"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/pro/pro-class-post-digest.php:126
+msgid "Wednesday"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/pro/pro-class-post-digest.php:127
+msgid "Thursday"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/pro/pro-class-post-digest.php:128
+msgid "Friday"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/pro/pro-class-post-digest.php:129
+msgid "Saturday"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/pro/pro-class-sequences.php:21
+msgid "Create Sequence"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/pro/pro-class-sequences.php:47
+msgid "Campaigns > New Sequence"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/pro/pro-class-sequences.php:50
+msgid "Campaigns > Edit Sequence"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/pro/pro-class-sequences.php:69
+msgid "Add Sequence name"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/pro/pro-class-sequences.php:71
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/pro/pro-class-sequences.php:280
+msgid "Save All"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/pro/pro-class-sequences.php:87
+msgid "+ Add Email"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/pro/pro-class-sequences.php:125
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/pro/pro-class-sequences.php:186
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-contacts-table.php:1095
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-contacts-table.php:1116
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-newsletters.php:50
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-post-notifications.php:45
+msgid "Please select list."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/pro/pro-class-sequences.php:132
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/pro/pro-class-sequences.php:193
+msgid "Sequence should have atleast one email"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/pro/pro-class-sequences.php:166
+msgid "Sequence has been added successfully!"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/pro/pro-class-sequences.php:245
+msgid "Sequence has been updated successfully!"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/pro/pro-class-sequences.php:264
+msgid "Recipients : "
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/pro/pro-class-sequences.php:304
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/pro/pro-class-sequences.php:377
+msgid " day"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/pro/pro-class-sequences.php:304
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/pro/pro-class-sequences.php:377
+msgid " days"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/pro/pro-class-sequences.php:336
+msgid "Email Subject"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/pro/pro-class-sequences.php:340
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-admin-settings.php:355
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-admin-settings.php:384
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-admin-settings.php:419
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-admin-settings.php:461
+msgid "Content"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/pro/pro-class-sequences.php:357
+msgid "Get your spam score now"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/pro/pro-class-sequences.php:362
+msgid "Add campaign name for utm tracking"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/pro/pro-class-sequences.php:384
+msgid " after"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/pro/pro-class-sequences.php:386
+msgid " after subscription"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/starter/starter-class-email-subscribers.php:178
+msgid "Are You a Human? "
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/starter/starter-class-email-subscribers.php:292
+msgid ""
+"<span class=\"es-send-success es-icon\"></span>We will take care of it. You "
+"don't need to visit this URL manually."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/starter/starter-class-email-subscribers.php:303
+msgid "SMTP Host"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/starter/starter-class-email-subscribers.php:310
+msgid "None"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/starter/starter-class-email-subscribers.php:310
+msgid "SSL"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/starter/starter-class-email-subscribers.php:310
+msgid "TLS"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/starter/starter-class-email-subscribers.php:315
+msgid "Encryption"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/starter/starter-class-email-subscribers.php:327
+msgid "SMTP Port"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/starter/starter-class-email-subscribers.php:334
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/starter/starter-class-es-integrations.php:286
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/feedback.php:232
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-admin-settings.php:329
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-admin-settings.php:402
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-admin-settings.php:438
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-forms-table.php:367
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-forms-table.php:385
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-handle-sync-wp-user.php:67
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-widget.php:49
+msgid "No"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/starter/starter-class-email-subscribers.php:334
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/starter/starter-class-es-integrations.php:289
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/feedback.php:231
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-admin-settings.php:329
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-admin-settings.php:401
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-admin-settings.php:437
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-forms-table.php:363
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-forms-table.php:381
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-handle-sync-wp-user.php:70
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-widget.php:49
+msgid "Yes"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/starter/starter-class-email-subscribers.php:339
+msgid "Authentication"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/starter/starter-class-email-subscribers.php:351
+msgid "SMTP Username"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/starter/starter-class-email-subscribers.php:363
+msgid "SMTP Password"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/starter/starter-class-email-subscribers.php:373
+msgid "Block Known Attackers"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/starter/starter-class-email-subscribers.php:374
+msgid ""
+"Stop known spam bot attacker domains from signing up. Keeps this list up-to-"
+"date with Icegram servers."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/starter/starter-class-email-subscribers.php:381
+msgid "Block Temporary / Fake Emails"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/starter/starter-class-email-subscribers.php:382
+msgid ""
+"Plenty of sites provide disposable / fake / temporary email addresses. "
+"People use them when they don't want to give you their real email. Block "
+"these to keep your list clean. Automatically updated."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/starter/starter-class-email-subscribers.php:391
+msgid "Show a captcha in subscription forms to protect from bot signups."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/starter/starter-class-email-subscribers.php:482
+msgid "Custom CSS"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/starter/starter-class-email-subscribers.php:555
+msgid "User Roles"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/starter/starter-class-email-subscribers.php:575
+msgid "Roles"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/starter/starter-class-email-subscribers.php:576
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/class-email-subscribers-admin.php:177
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/class-email-subscribers-admin.php:177
+msgid "Audience"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/starter/starter-class-email-subscribers.php:577
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/class-email-subscribers-admin.php:171
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/class-email-subscribers-admin.php:171
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-forms-table.php:38
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-forms-table.php:39
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-forms-table.php:81
+msgid "Forms"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/starter/starter-class-email-subscribers.php:578
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/class-email-subscribers-admin.php:161
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/class-email-subscribers-admin.php:161
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-campaigns-table.php:93
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-newsletters.php:103
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-post-notifications.php:258
+msgid "Campaigns"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/starter/starter-class-email-subscribers.php:579
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/class-email-subscribers-admin.php:186
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/class-email-subscribers-admin.php:186
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-reports-table.php:20
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-reports-table.php:36
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-reports-table.php:75
+msgid "Reports"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/starter/starter-class-email-subscribers.php:580
+msgid "Sequences"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/starter/starter-class-email-subscribers.php:788
+msgid "Unsubscribe from all the lists"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/starter/starter-class-email-subscribers.php:879
+msgid "Inline CSS"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/starter/starter-class-es-integrations.php:72
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/pro-features.php:54
+msgid "Comments"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/starter/starter-class-es-integrations.php:82
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/pro-features.php:65
+msgid "WooCommerce"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/starter/starter-class-es-integrations.php:91
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/pro-features.php:114
+msgid "EDD"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/starter/starter-class-es-integrations.php:100
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/pro-features.php:75
+msgid "Contact Form 7"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/starter/starter-class-es-integrations.php:109
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/pro-features.php:84
+msgid "WPForms"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/starter/starter-class-es-integrations.php:118
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/pro-features.php:94
+msgid "Give"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/starter/starter-class-es-integrations.php:127
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/pro-features.php:104
+msgid "Ninja Forms"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/starter/starter-class-es-integrations.php:136
+msgid "Gravity Forms"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/starter/starter-class-es-integrations.php:145
+msgid "MemberPress"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/starter/starter-class-es-integrations.php:154
+msgid "Events Manger"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/starter/starter-class-es-integrations.php:241
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-handle-sync-wp-user.php:31
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-lists-table.php:626
+msgid "Please select list"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/starter/starter-class-es-integrations.php:249
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-handle-sync-wp-user.php:39
+msgid "Settings have been saved successfully!"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/starter/starter-class-es-integrations.php:264
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/starter/starter-class-es-integrations.php:365
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/starter/starter-class-es-integrations.php:502
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/starter/starter-class-es-integrations.php:589
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-handle-sync-wp-user.php:77
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-post-notifications.php:272
+msgid "Select List"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/starter/starter-class-es-integrations.php:266
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/starter/starter-class-es-integrations.php:368
+msgid "Opt-In Consent Text"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/starter/starter-class-es-integrations.php:326
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-admin-settings.php:750
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-handle-sync-wp-user.php:91
+msgid "Save Settings"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/starter/starter-class-es-integrations.php:363
+msgid "Sync Comment Users?"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/starter/starter-class-es-integrations.php:364
+msgid ""
+"Whenever someone make a comment, it will automatically be added into "
+"selected list"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/starter/starter-class-es-integrations.php:366
+msgid "Select the list in which you want to make comment user subscribed to"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/starter/starter-class-es-integrations.php:500
+msgid "Sync WooCommerce Customers?"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/starter/starter-class-es-integrations.php:501
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/starter/starter-class-es-integrations.php:588
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/starter/starter-class-es-integrations.php:658
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/starter/starter-class-es-integrations.php:760
+msgid ""
+"Whenever someone place an order, it will automatically be added into "
+"selected list"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/starter/starter-class-es-integrations.php:503
+msgid ""
+"Select the list in which you want to make WooCommerce customers subscribed to"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/starter/starter-class-es-integrations.php:516
+msgid "Sync Contact Form 7 subscribers?"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/starter/starter-class-es-integrations.php:517
+msgid ""
+"Whenever someone fill the Contact Form 7 form, it will automatically be "
+"added into selected list"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/starter/starter-class-es-integrations.php:518
+msgid "Select the list in which you want to add contact to"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/starter/starter-class-es-integrations.php:587
+msgid "Sync EDD Customers?"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/starter/starter-class-es-integrations.php:590
+msgid "Select the list in which you want to make EDD customers subscribed to"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/starter/starter-class-es-integrations.php:657
+msgid "Sync Memberpress users?"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/starter/starter-class-es-integrations.php:659
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/starter/starter-class-es-integrations.php:761
+msgid ""
+"Select the list in which you want to make Memberpress contacts subscribed to"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/starter/starter-class-es-integrations.php:713
+msgid "Sync Give users?"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/starter/starter-class-es-integrations.php:714
+msgid ""
+"Whenever someone make a donation using Give, it will automatically be added "
+"into selected list"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/starter/starter-class-es-integrations.php:715
+msgid "Select the list in which you want to make donors subscribed to"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/starter/starter-class-es-integrations.php:759
+msgid "Sync EventManager users?"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/starter/starter-class-es-integrations.php:813
+msgid "Sync WPForms users?"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/starter/starter-class-es-integrations.php:814
+msgid ""
+"Whenever someone fill up WPForms, it will automatically be added into "
+"selected list"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/starter/starter-class-es-integrations.php:815
+msgid ""
+"Select the list in which you want to make WPForms contacts subscribed to"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/starter/starter-class-es-integrations.php:866
+msgid "Sync Gravity Forms users?"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/starter/starter-class-es-integrations.php:867
+msgid ""
+"Whenever someone fill up Gravity Forms, it will automatically be added into "
+"selected list"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/starter/starter-class-es-integrations.php:868
+msgid ""
+"Select the list in which you want to make Gravity Forms contacts subscribed "
+"to"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/starter/starter-class-es-integrations.php:913
+msgid "Sync Ninja Forms users?"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/starter/starter-class-es-integrations.php:914
+msgid ""
+"Whenever someone fill up Ninja Forms, it will automatically be added into "
+"selected list"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/starter/starter-class-es-integrations.php:915
+msgid ""
+"Select the list in which you want to make Ninja Forms contacts subscribed to"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/class-email-subscribers-admin.php:153
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/class-email-subscribers.php:819
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-form-widget.php:11
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-old-widget.php:11
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-old-widget.php:12
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-widget.php:11
+msgid "Email Subscribers"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/class-email-subscribers-admin.php:156
+msgid "Dashboard"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/class-email-subscribers-admin.php:164
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/partials/help.php:112
+msgid "Post Notifications"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/class-email-subscribers-admin.php:165
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/pro/classes/class-es-pro-reports-data.php:104
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-campaigns-table.php:262
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-reports-table.php:195
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-templates-table.php:34
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-templates-table.php:242
+msgid "Broadcast"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/class-email-subscribers-admin.php:166
+msgid "Template Preview"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/class-email-subscribers-admin.php:181
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-forms-table.php:338
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-lists-table.php:37
+msgid "Lists"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/class-email-subscribers-admin.php:190
+msgid "Settings"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/class-email-subscribers.php:299
+#, php-format
+msgid ""
+"WordPress Cron is disable on your site. Email notifications from Email "
+"Subscribers plugin will not be sent automatically. <a href=\"%s\" "
+"target=\"_blank\" >Here's how you can enable it.</a>"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/class-email-subscribers.php:300
+#, php-format
+msgid "Or schedule Cron in <a href=\"%s\" target=\"_blank\">cPanel</a>"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/class-email-subscribers.php:301
+#, php-format
+msgid ""
+"Or use <strong><a href=\"%s\" target=\"_blank\">Email Subscribers Pro</a>"
+"</strong> for automatic Cron support"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/class-email-subscribers.php:302
+msgid "OK, I Got it!"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/class-email-subscribers.php:904
+#, php-format
+msgid "%1$s in %2$s on line %3$s"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/class-es-common.php:90
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-contacts-table.php:270
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-lists-table.php:497
+msgid "Subscribed"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/class-es-common.php:91
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-lists-table.php:499
+msgid "Unconfirmed"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/class-es-common.php:92
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-contacts-table.php:274
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-lists-table.php:498
+msgid "Unsubscribed"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/class-es-common.php:115
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-post-notifications.php:299
+msgid "Select Status"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/class-es-common.php:235
+msgid "Select Template"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/class-es-common.php:273
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-campaigns-table.php:223
+msgid "Active"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/class-es-common.php:274
+msgid "Inactive"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/class-es-common.php:342
+msgid "Select Categories"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/class-es-common.php:354
+msgid "All Categories (Also include all categories which will create later)"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/class-es-common.php:386
+msgid "No Custom Post Types Available"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/class-es-common.php:402
+msgid "Single Opt-In"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/class-es-common.php:403
+msgid "Double Opt-In"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/class-es-common.php:418
+msgid "Full Size"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/class-es-common.php:419
+msgid "Medium Size"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/class-es-common.php:420
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-templates-table.php:223
+msgid "Thumbnail"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/class-es-install.php:768
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/upgrade/es-update-functions.php:773
+msgid ""
+"Your subscription was successful! Kindly check your mailbox and confirm your "
+"subscription. If you don't see the email within a few minutes, check the "
+"spam/junk folder."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/feedback.php:56
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/feedback.php:83
+msgid "Send"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/feedback.php:57
+msgid ""
+"Allow Email Subscribers to track plugin usage. It will help us to understand "
+"your issue better. We guarantee no sensitive data is collected."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/feedback.php:118
+msgid "Not a member yet?"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/feedback.php:120
+msgid "Join"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/feedback.php:120
+msgid "Email Subscribers Secret Club"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/feedback.php:120
+msgid "on Facebook"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/feedback.php:124
+msgid "Join Now"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/feedback.php:227
+msgid "Subscription forms and CTAs??"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/feedback.php:238
+msgid "Send my feedback to <b>Icegram team</b>"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/pro-features.php:142
+msgid "Sync Comment Users"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/pro-features.php:143
+msgid ""
+"Quickly add to your mailing list when someone post a comment on your website."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/pro-features.php:144
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/pro-features.php:173
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/pro-features.php:206
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/pro-features.php:238
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/pro-features.php:270
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/pro-features.php:302
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/pro-features.php:334
+msgid "How to setup?"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/pro-features.php:145
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/pro-features.php:174
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/pro-features.php:207
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/pro-features.php:239
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/pro-features.php:271
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/pro-features.php:303
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/pro-features.php:335
+msgid "Once you upgrade to "
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/pro-features.php:145
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/pro-features.php:148
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/pro-features.php:174
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/pro-features.php:207
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/pro-features.php:239
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/pro-features.php:271
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/pro-features.php:303
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/pro-features.php:335
+msgid "Email Subscribers Starter"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/pro-features.php:145
+msgid ""
+"you will have settings panel where you need to enable Comment user sync and "
+"select the list in which you want to add people whenever someone post a\n"
+"            comment."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/pro-features.php:148
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/pro-features.php:178
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/pro-features.php:210
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/pro-features.php:242
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/pro-features.php:274
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/pro-features.php:306
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/pro-features.php:338
+msgid "Checkout "
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/pro-features.php:148
+msgid "now"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/pro-features.php:171
+msgid "Sync WooCommerce Customers"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/pro-features.php:172
+msgid ""
+"Are you using WooCommerce for your online business? You can use this "
+"integration to add to a specific list whenever someone make a purchase from "
+"you"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/pro-features.php:174
+msgid ""
+"you will have settings panel where you need to enable WooCommerce sync and "
+"select the list in which you want to add people whenever they\n"
+"            purchase something\n"
+"            from you."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/pro-features.php:204
+msgid "Sync Contact Form 7 users"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/pro-features.php:205
+msgid ""
+"Are you using Contact Form 7 for your list building? You can use this "
+"integration to add to a specific list whenever new subscribers added from "
+"Contact Form 7"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/pro-features.php:208
+msgid ""
+"you will have settings panel where you need to enable Contact form 7 sync "
+"and select the list in which you want to add people whenever they fill any "
+"of the Contact Form."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/pro-features.php:236
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/pro-features.php:268
+msgid "Sync Donors"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/pro-features.php:237
+msgid ""
+"We found that you are using Give WordPress plugin to collect donations. Now, "
+"with this integration, you can add your donors to any of your subscriber "
+"list and send them Newsletters in future."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/pro-features.php:240
+msgid ""
+"you will have settings panel where you need to enable Give integration and "
+"select the list in which you want to add people whenever they make donation."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/pro-features.php:269
+msgid ""
+"Are you using Give WordPress plugin to collect donations? Want to send Thank "
+"You email to them? You can use this integration to be in touch with them."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/pro-features.php:272
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/pro-features.php:304
+msgid ""
+"you will have settings panel where you need to enable Give sync and select "
+"the list in which you want to add people whenever they make donation."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/pro-features.php:300
+msgid "Sync Contacts"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/pro-features.php:301
+msgid ""
+"We found that you are using Ninja Forms. Want to add your contact to a "
+"mailing list? You can use this integration to add your contact to add into "
+"mailing list"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/pro-features.php:332
+msgid "Sync Customers"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/pro-features.php:333
+msgid ""
+"We found that you are using EDD to sell digital goods online. You can use "
+"this integration to send Newsletters/ Post Notifications to your customers."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/pro-features.php:336
+msgid ""
+"you will have settings panel where you need to enable EDD sync and select "
+"the list in which you want to add people whenever they purchase something "
+"from you."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/public/class-email-subscribers-public.php:110
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-handle-subscription.php:420
+msgid "Please enter email address"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/public/class-email-subscribers-public.php:111
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-handle-subscription.php:421
+msgid "You need to wait for sometime before subscribing again"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/public/class-email-subscribers-public.php:112
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-handle-subscription.php:422
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/upgrade/es-update-functions.php:773
+msgid "Successfully Subscribed."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/public/class-email-subscribers-public.php:114
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-handle-subscription.php:423
+msgid "Email Address already exists!"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/public/class-email-subscribers-public.php:115
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-handle-subscription.php:424
+msgid "Oops.. Unexpected error occurred."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/public/class-email-subscribers-public.php:116
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-handle-subscription.php:425
+msgid "Invalid email address"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/public/class-email-subscribers-public.php:117
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-handle-subscription.php:427
+msgid "Please try after some time"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/public/class-email-subscribers-public.php:236
+msgid "You are already subscribed!"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/public/class-email-subscribers-public.php:238
+msgid "You are already unsubscribed!"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/public/class-email-subscribers-public.php:243
+msgid "Sorry, we couldn't find you. Please contact admin."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/public/class-email-subscribers-public.php:401
+msgid "Are you sure you want to unsubscribe?"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/pro/classes/class-es-pro-reports-data.php:106
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-reports-table.php:191
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-templates-table.php:35
+msgid "Post Notification"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/pro/partials/es-dashboard.php:51
+msgid "Sent on"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/pro/partials/es-dashboard.php:58
+msgid "In Queue"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/partials/help.php:10
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-info.php:17
+msgid "Help & Info"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/partials/help.php:15
+msgid "Feature Overview"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/partials/help.php:17
+msgid ""
+"Collect customer emails by adding a subscription box (Widget/Shortcode/PHP "
+"Code)."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/partials/help.php:18
+msgid "Configure double Opt-In and Single Opt-In facility for subscribers."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/partials/help.php:19
+msgid "Send automatic welcome email to subscribers."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/partials/help.php:20
+msgid ""
+"Send new post notification emails to subscribers when new posts are "
+"published on your website."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/partials/help.php:21
+msgid "Send email notification to admin when a new user signs up."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/partials/help.php:22
+msgid "Automatically add Unsubscribe link in the email."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/partials/help.php:23
+msgid "Easily migrate subscribers from another app using Import & Export."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/partials/help.php:24
+msgid ""
+"Use HTML editor to create broadcast (Newsletters) and post notifications."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/partials/help.php:25
+msgid "Send broadcast to different lists."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/partials/help.php:26
+msgid "Get detailed sent email reports."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/partials/help.php:27
+msgid "Supports localization and internationalization."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/partials/help.php:45
+msgid "Database Migration"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/partials/help.php:47
+msgid ""
+"If you found duplicate campaigns, lists, forms, reports after upgrading from "
+"Email Subscribers 3.5.x to 4.x and want to run the database migration again "
+"to fix this, please click the below <b>Run the updater</b> button."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/partials/help.php:49
+msgid ""
+"Once you click on <b>Run the updater</b> button, it will run the migration "
+"process from 3.5.x once again. So, if you have created new campaigns, forms "
+"or lists after migration to 4.x earlier, you will lose those data. So, make "
+"sure you have a backup with you."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/partials/help.php:52
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/notices/views/html-notice-update.php:23
+msgid "Run the updater"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/partials/help.php:65
+msgid "Additional form settings"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/partials/help.php:67
+msgid "How to Redirect Subscribers to a new page/url after successful sign up?"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/partials/help.php:68
+msgid "How to add captcha in Subscribe form of Email Subscribers?"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/partials/help.php:72
+msgid "General Plugin Configuration"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/partials/help.php:74
+msgid "Modify "
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/partials/help.php:74
+msgid "default text, email contents"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/partials/help.php:75
+msgid ""
+" (like Confirmation, Welcome, Admin emails), Cron Settings and Assign User "
+"Roles"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/partials/help.php:76
+msgid "How does Sync work?"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/partials/help.php:77
+msgid "How to Import or Export Email Addresses?"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/partials/help.php:78
+msgid "How to Add/Update Existing Subscribers List & Status?"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/partials/help.php:79
+msgid "How to change/update/translate any texts from the plugin?"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/partials/help.php:80
+msgid "How to add Unsubscribe link in emails?"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/partials/help.php:81
+msgid "How to check sent emails?"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/partials/help.php:89
+msgid "Newsletters"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/partials/help.php:91
+msgid "Create and Send Newsletter Emails"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/partials/help.php:92
+msgid "Keywords in the Newsletters"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/partials/help.php:96
+msgid "Cron Job Setup"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/partials/help.php:98
+msgid "What is Cron and how to Schedule Cron Emails?"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/partials/help.php:99
+msgid "Schedule Cron Emails in cPanel"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/partials/help.php:100
+msgid "Schedule Cron Emails in Parallels Plesk"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/partials/help.php:101
+msgid "Hosting doesn’t support Cron Jobs?"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/partials/help.php:105
+msgid "[GDPR] Email Subscribers"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/partials/help.php:107
+msgid "How to enable consent checkbox in the subscribe form?"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/partials/help.php:108
+msgid "What data Email Subscribers stores on your end?"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/partials/help.php:114
+msgid "Create and Send Post Notification Emails when new posts are published"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/partials/help.php:115
+msgid "Keywords in the Post Notifications"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/partials/help.php:116
+msgid "Send a test post notification email to myself/testgroup"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/partials/help.php:120
+msgid "Troubleshooting Steps"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/partials/help.php:122
+msgid "Subscribers are not receiving Emails?"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/partials/help.php:123
+msgid "CSS Help"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/partials/help.php:124
+msgid "FAQ's"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/partials/help.php:129
+msgid "Want to do more? Here's how.."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/partials/help.php:132
+msgid "Show your subscribe form inside attractive popups"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/partials/help.php:134
+msgid ""
+"Don't limit your subscriber form to a widget. Embed it within popups, hello "
+"bars, slide-ins, sidebars, full screen popups etc."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/partials/help.php:135
+msgid ""
+"Using Email Subscribers you can achieve this easily with our <b>free</b> "
+"plugin <a target=\"_blank\" class=\"es-cta\" href=\"https://wordpress."
+"org/plugins/icegram/\">Icegram</a>"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/partials/help.php:136
+msgid ""
+"Icegram's beautiful designs instantly capture user attention and help "
+"increase sign-ups to your WordPress website."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/partials/help.php:137
+msgid ""
+"How to <a href=\"https://www.icegram.com/documentation/es-how-to-show-"
+"subscribe-form-inside-a-popup/?"
+"utm_source=es&utm_medium=in_app&utm_campaign=view_docs_help_page\" "
+"target=\"_blank\">show subscribe form inside a popup</a>"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/partials/help.php:140
+msgid "Get beautiful and elegant form styles"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/partials/help.php:142
+msgid ""
+"Email subscribers easily integrates with another <b>free</b> plugin <a "
+"class=\"es-cta\" target=\"_blank\" href=\"https://wordpress."
+"org/plugins/icegram-rainmaker/\">Rainmaker</a>"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/partials/help.php:143
+msgid ""
+"Rainmaker extends the core features of Email Subscribers and provides "
+"elegant form styles."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/partials/help.php:144
+msgid ""
+"These styles are well designed and beautify your subscription form making it "
+"more appealing."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/partials/help.php:145
+msgid ""
+"How to <a href=\"https://www.icegram.com/documentation/es-how-to-use-"
+"rainmakers-form-in-email-subscribers/?"
+"utm_source=es&utm_medium=in_app&utm_campaign=view_docs_help_page\" "
+"target=\"_blank\">add Rainmaker’s form in Email Subscribers</a>"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/partials/onboarding.php:9
+#, php-format
+msgid ""
+"Created two Lists - <a href=\"%s\" target=\"_blank\">Main</a> and <a "
+"href=\"%s\" target=\"_blank\">Test</a>"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/partials/onboarding.php:10
+msgid "Added yourself"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/partials/onboarding.php:10
+msgid "to both lists"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/partials/onboarding.php:11
+#, php-format
+msgid ""
+"Created a <a href=\"%s\" target=\"_blank\"> subscription / lead collection "
+"optin form</a>"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/partials/onboarding.php:12
+#, php-format
+msgid ""
+"Added optin form to <a href=\"%s\" target=\"_blank\">default widget area</a> "
+"to show it on your site"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/partials/onboarding.php:16
+msgid ""
+" We will create \"<strong>Newsletter Broadcast</strong>\" and \"<strong>New "
+"Post Notification</strong>\" campaigns.  Next step is to test everything by "
+"<strong>sending test campaigns</strong>.<br />We've already added you, but "
+"recommend adding another email to test."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/partials/onboarding.php:17
+msgid "But before test <strong>verify your sender details</strong>"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/partials/onboarding.php:20
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-admin-settings.php:161
+msgid "Sender"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/partials/onboarding.php:23
+msgid "Add an email to send a test to:"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/partials/onboarding.php:25
+msgid "Create and Send test camapigns"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/partials/onboarding.php:33
+#, php-format
+msgid "We sent two Campaigns to %s and email you have added."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/partials/onboarding.php:34
+msgid ""
+"They may take a few minutes to arrive. But do confirm you received them."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/partials/onboarding.php:38
+msgid "Yes, I received the test emails"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/partials/onboarding.php:39
+msgid "No, I haven't received them yet"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/partials/onboarding.php:45
+msgid ""
+"Everything is setup now. It's a perfect time to get better at email "
+"marketing now. Sign up below to get our highly acclaimed course for free."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/partials/onboarding.php:52
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/partials/onboarding.php:77
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/partials/onboarding.php:100
+#, php-format
+msgid "I have read and agreed to your %s."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/partials/onboarding.php:52
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/partials/onboarding.php:77
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/partials/onboarding.php:100
+msgid "Privacy Policy"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/partials/onboarding.php:54
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/partials/onboarding.php:79
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/partials/onboarding.php:102
+msgid "Signup and send me the course for free"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/partials/onboarding.php:55
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/partials/onboarding.php:80
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/partials/onboarding.php:103
+msgid "Skip and goto Dashboard"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/partials/onboarding.php:64
+msgid "1. Check your spam or junk folder"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/partials/onboarding.php:65
+#, php-format
+msgid ""
+"2. <a href=\"%s\" target=\"_blank\">Send another test email</a> with "
+"different email address "
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/partials/onboarding.php:67
+msgid "Explore more"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/partials/onboarding.php:70
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/partials/onboarding.php:93
+msgid ""
+"Also, it's a perfect time to get better at email marketing now. Sign up "
+"below to get our highly acclaimed course for free."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/admin/partials/onboarding.php:90
+msgid "Explore more about problems"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-admin-settings.php:35
+msgid "You do not have permission to update settings"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-admin-settings.php:118
+msgid "General"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-admin-settings.php:119
+msgid "Notifications"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-admin-settings.php:120
+msgid "Email Sending"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-admin-settings.php:121
+msgid "Security"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-admin-settings.php:165
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-admin-settings.php:168
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-campaigns-table.php:341
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-contacts-table.php:822
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-forms-table.php:312
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-forms-table.php:735
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-lists-table.php:263
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-lists-table.php:496
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/public/partials/class-es-shortcode.php:154
+msgid "Name"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-admin-settings.php:166
+msgid "Choose a FROM name for all the emails to be sent from this plugin."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-admin-settings.php:174
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-contacts-table.php:620
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-contacts-table.php:823
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-export-subscribers.php:295
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-forms-table.php:305
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-reports-table.php:90
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/public/partials/class-es-shortcode.php:153
+msgid "Email"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-admin-settings.php:175
+msgid ""
+"Choose a FROM email address for all the emails to be sent from this plugin"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-admin-settings.php:177
+msgid "Email Address"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-admin-settings.php:185
+msgid "Email Addresses"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-admin-settings.php:187
+msgid ""
+"Enter the admin email addresses that should receive notifications (separated "
+"by comma)."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-admin-settings.php:193
+msgid "Opt-in Type"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-admin-settings.php:202
+msgid "Image Size"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-admin-settings.php:205
+msgid ""
+"<p>Select image size for {{POSTIMAGE}} to be shown in the Post Notification "
+"Emails.</p>"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-admin-settings.php:211
+msgid "Track Opens"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-admin-settings.php:213
+msgid "Check this if you want to track email opening."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-admin-settings.php:224
+msgid "Message to display after form submission"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-admin-settings.php:234
+msgid "Show Unsubscribe Message In Email Footer"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-admin-settings.php:235
+msgid ""
+"Add text which you want your contact to see in footer to unsubscribe. Use "
+"{{UNSUBSCRIBE-LINK}} keyword to add unsubscribe link."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-admin-settings.php:242
+msgid "Subscription Success/ Error Messages"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-admin-settings.php:249
+msgid "You have been subscribed successfully!"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-admin-settings.php:251
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-admin-settings.php:281
+msgid "Success Message"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-admin-settings.php:252
+msgid ""
+"Show this message if contact is successfully subscribed from Double Opt-In "
+"(Confirmation) Email"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-admin-settings.php:260
+msgid ""
+"Oops.. Your request couldn't be completed. This email address seems to be "
+"already subscribed / blocked."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-admin-settings.php:262
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-admin-settings.php:293
+msgid "Error Message"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-admin-settings.php:263
+msgid ""
+"Show this message if any error occured after clicking confirmation link from "
+"Double Opt-In (Confirmation) Email."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-admin-settings.php:271
+msgid "Unsubscribe Success/ Error Messages"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-admin-settings.php:279
+msgid ""
+"Thank You, You have been successfully unsubscribed. You will no longer hear "
+"from us."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-admin-settings.php:282
+msgid ""
+"Once contact clicks on unsubscribe link, he/she will be redirected to a page "
+"where this message will be shown."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-admin-settings.php:294
+msgid ""
+"Show this message if any error occured after clicking on unsubscribe link."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-admin-settings.php:324
+msgid "Welcome Email"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-admin-settings.php:334
+msgid "Enable?"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-admin-settings.php:335
+msgid "Send welcome email to new contact after signup."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-admin-settings.php:345
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-admin-settings.php:373
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-admin-settings.php:411
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-admin-settings.php:450
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-newsletters.php:121
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-reports-table.php:270
+msgid "Subject"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-admin-settings.php:356
+msgid ""
+"Available keywords. {{FIRSTNAME}}, {{LASTNAME}}, {{NAME}}, {{EMAIL}}, {{LIST}"
+"}, {{UNSUBSCRIBE-LINK}}"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-admin-settings.php:363
+msgid "Confirmation Email"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-admin-settings.php:385
+msgid ""
+"If Double Optin is set, contact will receive confirmation email with above "
+"content. You can use {{FIRSTNAME}}, {{LASTNAME}}, {{NAME}}, {{EMAIL}}, "
+"{{SUBSCRIBE-LINK}} keywords"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-admin-settings.php:393
+msgid "Admin Notification On New Subscription"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-admin-settings.php:398
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-admin-settings.php:434
+msgid "Notify?"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-admin-settings.php:404
+msgid "Set this option to \"Yes\" to notify admin(s) for new contact signup."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-admin-settings.php:413
+msgid ""
+"Subject for the admin email whenever a new contact signs up and is confirmed"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-admin-settings.php:414
+msgid "New email subscription"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-admin-settings.php:421
+msgid ""
+"Content for the admin email whenever a new subscriber signs up and is "
+"confirmed. Available Keywords: {{NAME}}, {{EMAIL}}, {{LIST}}"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-admin-settings.php:429
+msgid "Admin Notification On Every Campaign Sent"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-admin-settings.php:440
+msgid "Set this option to \"Yes\" to notify admin(s) on every campaign sent."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-admin-settings.php:448
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-mailer.php:352
+msgid "Campaign Sent!"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-admin-settings.php:462
+msgid ""
+"Send report to admin(s) whenever campaign is successfully sent to all "
+"contacts. Available Keywords: {{DATE}}, {{SUBJECT}}, {{COUNT}}"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-admin-settings.php:479
+msgid "Cron URL"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-admin-settings.php:489
+msgid "Disable WordPress Cron"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-admin-settings.php:490
+msgid ""
+"Check this if you do not want Email Subscribers to use WP cron for sending "
+"emails"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-admin-settings.php:495
+msgid "Send Emails At Most Every"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-admin-settings.php:498
+msgid "<p>Optional if a real cron service is used</p>"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-admin-settings.php:508
+msgid "Maximum Emails To Send In An Hour"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-admin-settings.php:509
+msgid "Total emails your host can send in an hour."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-admin-settings.php:518
+msgid "Maximum Emails To Send At once"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-admin-settings.php:519
+msgid "Maximum emails you want to send on every cron request."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-admin-settings.php:529
+msgid "Send Test Email"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-admin-settings.php:530
+msgid "Enter email address to send test email."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-admin-settings.php:539
+msgid "Select Mailer"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-admin-settings.php:551
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-admin-settings.php:812
+msgid "Pepipost API key"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-admin-settings.php:568
+msgid "Select a mailer to send mail"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-admin-settings.php:578
+msgid "Blocked Domain(s)"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-admin-settings.php:580
+msgid ""
+"Seeing spam signups from particular domains? Enter domains names (one per "
+"line) that you want to block here."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-admin-settings.php:811
+msgid "Signup for Pepipost"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-admin-settings.php:812
+msgid "How to find"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-campaigns-table.php:36
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-campaigns-table.php:37
+msgid "Campaign"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-campaigns-table.php:56
+msgid "Number of campaigns per page"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-campaigns-table.php:94
+msgid "Create Post Notification"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-campaigns-table.php:95
+msgid "Send Broadcast"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-campaigns-table.php:97
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-newsletters.php:104
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-post-notifications.php:262
+msgid "Manage Templates"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-campaigns-table.php:207
+msgid "No Campaigns Found."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-campaigns-table.php:222
+msgid "In Active"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-campaigns-table.php:224
+msgid "Scheduled"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-campaigns-table.php:225
+msgid "Queued"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-campaigns-table.php:226
+msgid "Paused"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-campaigns-table.php:227
+msgid "Finished"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-campaigns-table.php:270
+msgid "All"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-campaigns-table.php:321
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-lists-table.php:478
+#, php-format
+msgid "<a href=\"?page=%s&action=%s&list=%s&_wpnonce=%s\">Edit</a>"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-campaigns-table.php:322
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-lists-table.php:479
+#, php-format
+msgid ""
+"<a href=\"?page=%s&action=%s&list=%s&_wpnonce=%s\" onclick=\"return "
+"checkDelete()\">Delete</a>"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-campaigns-table.php:342
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-reports-table.php:271
+msgid "Type"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-campaigns-table.php:343
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-export-subscribers.php:296
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-lists-table.php:36
+msgid "List"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-campaigns-table.php:344
+msgid "Categories"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-campaigns-table.php:345
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-export-subscribers.php:297
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-reports-table.php:91
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-reports-table.php:272
+msgid "Status"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-campaigns-table.php:394
+msgid "Search Campaigns"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-campaigns-table.php:437
+msgid "You are not allowed to delete campaign."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-campaigns-table.php:443
+msgid "Campaign has been deleted successfully!"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-campaigns-table.php:461
+msgid "Campaign(s) have been deleted successfully!"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-campaigns-table.php:465
+msgid "Please check campaign(s) to delete."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-contacts-table.php:54
+msgid "Contact"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-contacts-table.php:55
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-contacts-table.php:263
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-export-subscribers.php:76
+msgid "Contacts"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-contacts-table.php:83
+msgid "Number of contacts per page"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-contacts-table.php:105
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-contacts-table.php:300
+msgid "Add New Contact"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-contacts-table.php:114
+msgid "Import Contacts"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-contacts-table.php:123
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-export-subscribers.php:67
+msgid "Export Contacts"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-contacts-table.php:132
+msgid "Sync"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-contacts-table.php:134
+msgid "New"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-contacts-table.php:141
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-contacts-table.php:301
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-lists-table.php:254
+msgid "Manage Lists"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-contacts-table.php:193
+msgid "Audience > Contacts"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-contacts-table.php:267
+msgid "Last 60 Days"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-contacts-table.php:278
+msgid "Opened"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-contacts-table.php:305
+msgid "Edit Contact"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-contacts-table.php:306
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-forms-table.php:81
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-lists-table.php:248
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-post-notifications.php:260
+msgid "Add New"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-contacts-table.php:354
+msgid "Contact already exist."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-contacts-table.php:421
+msgid "Contact has been added successfully!"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-contacts-table.php:423
+msgid "Contact has been updated successfully!"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-contacts-table.php:430
+msgid "Please Enter First Name"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-contacts-table.php:435
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-export-subscribers.php:33
+msgid "Please Select List"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-contacts-table.php:440
+msgid "Please Enter Valid Email Address"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-contacts-table.php:602
+msgid "No list found"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-contacts-table.php:610
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-export-subscribers.php:293
+msgid "First Name"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-contacts-table.php:615
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-export-subscribers.php:294
+msgid "Last Name"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-contacts-table.php:626
+msgid "Send Welcome Email?"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-contacts-table.php:633
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-contacts-table.php:824
+msgid "List(s)"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-contacts-table.php:644
+msgid "Save Changes"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-contacts-table.php:659
+msgid "No contacts avaliable."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-contacts-table.php:803
+#, php-format
+msgid "<a href=\"?page=%s&action=%s&subscriber=%s&_wpnonce=%s\">Edit</a>"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-contacts-table.php:804
+#, php-format
+msgid ""
+"<a href=\"?page=%s&action=%s&subscriber=%s&_wpnonce=%s\" onclick=\"return "
+"checkDelete()\">Delete</a>"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-contacts-table.php:807
+#, php-format
+msgid ""
+"<a href=\"?page=%s&action=%s&subscriber=%s&_wpnonce=%s\">Resend "
+"Confirmation<a>"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-contacts-table.php:825
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-forms-table.php:737
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-lists-table.php:501
+msgid "Created"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-contacts-table.php:858
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-forms-table.php:765
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-lists-table.php:530
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-reports-table.php:254
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-reports-table.php:337
+msgid "Delete"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-contacts-table.php:859
+msgid "Move To List"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-contacts-table.php:860
+msgid "Add To List"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-contacts-table.php:861
+msgid "Change Status"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-contacts-table.php:882
+msgid "Search Contacts"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-contacts-table.php:887
+msgid "All Statuses"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-contacts-table.php:893
+msgid "All Lists"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-contacts-table.php:998
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-contacts-table.php:1063
+msgid "Contact(s) have been deleted successfully!"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-contacts-table.php:1024
+msgid "Confirmation email has been sent successfully!"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-contacts-table.php:1051
+msgid "Please select subscribers to update."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-contacts-table.php:1074
+msgid "Please select status."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-contacts-table.php:1084
+msgid "Status has been changed successfully!"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-contacts-table.php:1104
+msgid "Contact(s) have been moved to list successfully!"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-contacts-table.php:1125
+msgid "Contact(s) have been added to list successfully!"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-cron.php:272
+msgid "10 minutes"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-cron.php:273
+msgid "15 minutes"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-cron.php:274
+msgid "20 minutes"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-cron.php:275
+msgid "25 minutes"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-cron.php:276
+msgid "30 minutes"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-cron.php:545
+msgid "Emails sent successfully!"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-cron.php:546
+msgid "Emails not found."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-cron.php:547
+msgid "No notifications found to send."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-cron.php:548
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-cron.php:549
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-cron.php:550
+msgid "Invalid GUID."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-cron.php:551
+msgid "Not allowed to process request."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-cron.php:552
+msgid "GUID is empty."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-cron.php:553
+msgid "Please try after sometime."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-cron.php:554
+msgid ""
+"You have hit your hourly email sending limit. Please try after sometime."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-cron.php:555
+msgid "Cron lock enabled. Please try after sometime."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-export-subscribers.php:44
+msgid "No data available"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-export-subscribers.php:75
+msgid "No."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-export-subscribers.php:77
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-reports-table.php:275
+msgid "Total Contacts"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-export-subscribers.php:78
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-lists-table.php:502
+msgid "Export"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-export-subscribers.php:92
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-lists-table.php:500
+msgid "All Contacts"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-export-subscribers.php:93
+msgid "Subscribed Contacts"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-export-subscribers.php:94
+msgid "Unsubscribed Contacts"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-export-subscribers.php:96
+msgid "Unconfirmed Contacts"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-export-subscribers.php:115
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-lists-table.php:443
+msgid "Download"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-export-subscribers.php:133
+msgid "Audience > Export Contacts"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-export-subscribers.php:224
+msgid "Export the Subscribers"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-export-subscribers.php:298
+msgid "Opt-In Type"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-export-subscribers.php:299
+msgid "Created On"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-form-widget.php:11
+msgid "Email Subscribers Form"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-forms-table.php:56
+msgid "Number of forms per page"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-forms-table.php:111
+msgid "You do not have permission to edit this form."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-forms-table.php:114
+msgid "Please add form name."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-forms-table.php:119
+msgid "Please select list(s) in which contact will be subscribed."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-forms-table.php:165
+msgid "Form has been added successfully!"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-forms-table.php:210
+msgid "Form has been updated successfully!"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-forms-table.php:219
+msgid "Sorry, form not found"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-forms-table.php:243
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/public/partials/class-es-shortcode.php:132
+msgid "Subscribe"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-forms-table.php:260
+msgid "New Form"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-forms-table.php:262
+msgid "Edit Form"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-forms-table.php:277
+msgid "Form Name"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-forms-table.php:285
+msgid "Description"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-forms-table.php:293
+msgid "Form Fields"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-forms-table.php:298
+msgid "Field"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-forms-table.php:299
+msgid "Show?"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-forms-table.php:300
+msgid "Required?"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-forms-table.php:301
+msgid "Label"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-forms-table.php:302
+msgid "Place Holder"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-forms-table.php:327
+msgid "Button"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-forms-table.php:339
+msgid "Contacts will be added into selected list(s)"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-forms-table.php:357
+msgid "Allow contact to choose list(s)"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-forms-table.php:358
+msgid "Allow contacts to choose list(s) in which they want to subscribe."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-forms-table.php:372
+msgid "Show GDPR consent checkbox"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-forms-table.php:373
+msgid ""
+"Show consent checkbox to get the consent of a contact before adding them to "
+"list(s)"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-forms-table.php:391
+msgid ""
+"Consent text will show up at subscription form next to consent checkbox."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-forms-table.php:416
+#, php-format
+msgid ""
+"Secure your form and avoid spam signups with Email Subscribers Starter Plan "
+"<a target=\"_blank\" style=\"font-weight: bold; cursor:pointer; text-"
+"decoration:none\" href=\"%s\">Get started</a>"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-forms-table.php:719
+#, php-format
+msgid "<a href=\"?page=%s&action=%s&form=%s&_wpnonce=%s\">Edit</a>"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-forms-table.php:720
+#, php-format
+msgid ""
+"<a href=\"?page=%s&action=%s&form=%s&_wpnonce=%s\" onclick=\"return "
+"checkDelete()\">Delete</a>"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-forms-table.php:736
+msgid "Shortcode"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-forms-table.php:782
+msgid "Search Forms"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-forms-table.php:820
+msgid "You do not have permission to delete this form."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-forms-table.php:827
+msgid "Form has been deleted successfully!"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-forms-table.php:842
+msgid "Form(s) have been deleted successfully!"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-forms-table.php:845
+msgid "Please select form(s) to delete."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-forms-table.php:856
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-lists-table.php:637
+msgid "Enable"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-forms-table.php:857
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-lists-table.php:638
+msgid "Disable"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-forms-table.php:869
+msgid "No Forms avaliable."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-handle-subscription.php:426
+msgid "Invalid name"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-handle-subscription.php:428
+msgid "Oops...unable to add subscriber"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-handle-subscription.php:429
+msgid "You do not have permission to add subscriber"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-handle-subscription.php:430
+msgid "Please select the list"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-handle-subscription.php:431
+msgid "Invalid Captcha"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-handle-sync-wp-user.php:59
+msgid "Sync WordPress Users?"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-handle-sync-wp-user.php:61
+msgid ""
+"Whenever someone signup, it will automatically be added into selected list"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-handle-sync-wp-user.php:79
+msgid "Select the list in which newly registered user will be subscribed to"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-handle-sync-wp-user.php:227
+msgid "Audience > Sync Contacts"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-handle-sync-wp-user.php:245
+msgid "WordPress"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-import-subscribers.php:32
+msgid "Sorry, you do not have permission to import contacts."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-import-subscribers.php:154
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-import-subscribers.php:158
+#, php-format
+msgid "Total %d contacts have been imported successfully!"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-import-subscribers.php:162
+#, php-format
+msgid "%d contacts are already exists."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-import-subscribers.php:167
+#, php-format
+msgid "%d contacts are invalid."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-import-subscribers.php:177
+msgid "Error: Please Select List"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-import-subscribers.php:181
+msgid "Error: Please select status"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-import-subscribers.php:185
+msgid "Error: Please Upload only CSV File"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-import-subscribers.php:189
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-import-subscribers.php:193
+msgid "Error: Please Upload File"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-import-subscribers.php:212
+msgid "Select CSV file"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-import-subscribers.php:214
+msgid "Check CSV structure"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-import-subscribers.php:215
+msgid "from here"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-import-subscribers.php:226
+msgid "Select status"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-import-subscribers.php:238
+msgid "Select list"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-import-subscribers.php:251
+msgid "Import"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-import-subscribers.php:273
+msgid "Audience > Import Contacts"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-info.php:20
+msgid "<span class=\"es-fire-sale\"> 🔥 </span> Go Pro"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-lists-table.php:54
+msgid "Number of lists per page"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-lists-table.php:75
+msgid "Audience > Lists"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-lists-table.php:109
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-lists-table.php:585
+msgid "You do not have permission to edit list"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-lists-table.php:111
+msgid "Please add list name"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-lists-table.php:113
+msgid "List already exists. Please choose different name"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-lists-table.php:158
+msgid "List has been added successfully!"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-lists-table.php:207
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-lists-table.php:589
+msgid "List has been updated successfully!"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-lists-table.php:250
+msgid "Edit List"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-lists-table.php:406
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-lists-table.php:415
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-lists-table.php:424
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-lists-table.php:433
+#, php-format
+msgid "<a href=\"%s\" target=\"_blank\">%d</a>"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-lists-table.php:549
+msgid "Search Lists"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-lists-table.php:601
+msgid "You do not have permission to delete list"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-lists-table.php:608
+msgid "List has been deleted successfully!"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-lists-table.php:623
+msgid "List(s) have been deleted successfully"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-lists-table.php:650
+msgid "No lists avaliable."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-mailer.php:296
+msgid "Thanks!"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-mailer.php:509
+#, php-format
+msgid "Test email to %s"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-newsletters.php:47
+msgid "Please add message body or select template"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-newsletters.php:53
+msgid "Please add the subject"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-newsletters.php:79
+msgid "Please add message content"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-newsletters.php:102
+msgid "Campaigns > Broadcast"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-newsletters.php:116
+msgid "From Email"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-newsletters.php:119
+msgid "Design template"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-newsletters.php:121
+msgid "New Broadcast"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-newsletters.php:122
+msgid "Pre Header"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-newsletters.php:122
+msgid "Add Pre header"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-newsletters.php:124
+msgid "Body"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-newsletters.php:142
+msgid "Recipients"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-newsletters.php:148
+msgid "Preview this email in browser"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-old-widget.php:72
+msgid "Widget Title"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-old-widget.php:76
+msgid "Short description about subscription form"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-old-widget.php:80
+msgid "Display Name Field"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-old-widget.php:82
+msgid "YES"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-old-widget.php:83
+msgid "NO"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-old-widget.php:87
+msgid "Subscriber Group"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-post-notifications.php:53
+msgid "Please select categories."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-post-notifications.php:74
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-post-notifications.php:202
+msgid "Please select template."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-post-notifications.php:209
+msgid "Please select Categories."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-post-notifications.php:244
+msgid "Campaigns > New Post Notification"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-post-notifications.php:247
+msgid "Campaigns > Edit Post Notification"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-post-notifications.php:273
+msgid ""
+"Contacts from the selected list will be notified about new post notification."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-post-notifications.php:311
+msgid "Select Post Category"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-post-notifications.php:312
+msgid ""
+"Notification will be sent out when any post from selected categories will be "
+"published."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-post-notifications.php:325
+msgid "Select custom post type(s)"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-post-notifications.php:326
+msgid ""
+"(Optional) Select custom post type for which you want to send notification."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-reports-table.php:19
+msgid "Report"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-reports-table.php:41
+#, php-format
+msgid ""
+"<a href='%s' target='_blank' class='page-title-action es-imp-button'>Send "
+"Queued Emails Now</a>"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-reports-table.php:43
+msgid ""
+"<span class='page-title-action button-disabled'>Send Queued Emails Now</span>"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-reports-table.php:44
+msgid "<br /><span class='es-helper'>No emails found in queue</span>"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-reports-table.php:89
+msgid "Sr No"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-reports-table.php:92
+msgid "Sent Date"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-reports-table.php:93
+msgid "Viewed Status"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-reports-table.php:94
+msgid "Viewed Date"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-reports-table.php:158
+msgid "Viewed"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-reports-table.php:158
+msgid "Not yet viewed"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-reports-table.php:171
+msgid "No Reports avaliable."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-reports-table.php:213
+msgid "Completed"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-reports-table.php:253
+msgid "View"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-reports-table.php:255
+msgid "Preview"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-reports-table.php:273
+msgid "Start Date"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-reports-table.php:274
+msgid "End Date"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-reports-table.php:422
+msgid "You do not have permission to view notification"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-reports-table.php:434
+msgid "You do not have permission to delete notification"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-reports-table.php:440
+msgid "Report has been deleted successfully!"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-reports-table.php:449
+msgid "You do not have permission to preview notification"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-reports-table.php:467
+msgid "Reports have been deleted successfully!"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-reports-table.php:479
+msgid "Preview Email"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-reports-table.php:482
+msgid ""
+"This is how the email you sent may look. <br>Note: Different email services "
+"(like gmail, yahoo etc) display email content differently. So there could be "
+"a slight variation on how your customer will view the email content."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-templates-table.php:66
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-templates-table.php:71
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-templates-table.php:75
+msgid "Available Keywords"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-templates-table.php:71
+msgid "for Broadcast:"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-templates-table.php:75
+msgid "for Post Digest:"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-templates-table.php:76
+msgid "Any keywords related Post Notification"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-templates-table.php:116
+msgid "Preview Template"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-templates-table.php:222
+msgid "Template Type"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-templates-table.php:259
+msgid "Duplicate"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-tools.php:54
+msgid "Email has been sent. Please check your inbox"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/classes/class-es-widget.php:11
+msgid "Email Subscribers Widget"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/notices/class-es-admin-notices.php:99
+msgid "Action failed. Please refresh the page and retry."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/public/partials/class-es-shortcode.php:255
+msgid "Select List(s)"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/public/partials/cron-message.php:33
+msgid "Total Emails Sent"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/public/partials/cron-message.php:37
+msgid "Total Emails In Queue"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/notices/views/html-notice-update.php:19
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/notices/views/html-notice-updating.php:19
+msgid "Email Subscribers data update"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/notices/views/html-notice-update.php:19
+msgid "We need to update your data store to the latest version."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/notices/views/html-notice-update.php:29
+msgid "Are you sure you wish to run the updater now?"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/notices/views/html-notice-updated.php:12
+msgid "Dismiss"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/notices/views/html-notice-updated.php:14
+msgid ""
+"Email Subscribers data update complete. Thank you for updating to the latest "
+"version!"
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/notices/views/html-notice-updating.php:19
+msgid "Your database is being updated in the background. Please be patient."
+msgstr ""
+
+#: ../../../../../repositories/GitLab/icegram/email-subscribers/lite/includes/notices/views/html-notice-updating.php:22
+msgid "Taking a while? Click here to run it now."
+msgstr ""
+
+#. Name of the plugin
+msgid "Email Subscribers & Newsletters"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Add subscription forms on website, send HTML newsletters & automatically "
+"notify subscribers about new blog posts once it is published."
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.icegram.com/"
+msgstr ""
+
+#. Author of the plugin
+msgid "Icegram"
+msgstr ""

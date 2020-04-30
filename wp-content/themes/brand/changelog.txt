@@ -1,0 +1,295 @@
+== Changelog ==
+
+= 1.9 =
+
+* Release Date: March 19, 2018
+
+* Added autoplay option for the slider.
+* Added lazy loading option for the slider.
+* Added transition delay option for the slider.
+* Added transition speed option for the slider.
+* Updated Swiper to version 4.1.6.
+
+= 1.8.9 =
+
+* Release Date: February 26, 2018
+
+* Added filter to change the number of columns of related products in Woocommerce.
+* Update selector to avoid that Woocommerce styles overwrite products columns width.
+* Updated Woocommerce templates.
+* Added Freemius integration.
+* Added styles to contact, account and pricing page in admin area.
+* Added a dismissible admin notice to ask for a review.
+* Changed style and url to some sections in the Customizer.
+
+= 1.8.8 =
+
+* Release Date: November 14, 2017
+
+* Added new styles to Flickr widget and gallery shortcode.
+* Added form for subscription on Brand theme settings page.
+* Added TGMPA for recommended plugins.
+* Changed the function to check if the header should be displayed on single posts.
+* Changed brand_no_header function.
+
+= 1.8.7 =
+
+* Release Date: October 19, 2017
+
+* Added mobile widget area.
+* Added styles to mobile widget area and gallery.
+* Minor style changes.
+
+= 1.8.6 =
+
+* Release Date: August 23, 2017
+
+* Added sidebar metabox to product and download post types.
+* Added hide elements metabox to download post type.
+* Added function to save logos url inside the new control on theme update.
+
+= 1.8.5 =
+
+* Release Date: August 16, 2017
+
+* Deleted different text domain.
+* Added a css rule to show inline menu on the right.
+
+= 1.8.4 =
+
+* Release Date: August 11, 2017
+
+* Added unique option to make site boxed or full width.
+* Placed site info element inside footer element.
+* Added calculation to set numbered pagination font size.
+* Added option to hide footer widgets on single posts and pages.
+* Added slider support for full width page template.
+* Fixed a bug that not applies max-width property to multiline items in a flex container on Safari 10 and below.
+* Added sticky menu option.
+* Added option to make navigation and footer content full width.
+* Added brand_footer_text filter to change footer content.
+
+= 1.8.3 =
+
+* Release Date: July 7, 2017
+
+* Added js to close slide menu when an anchor link is clicked.
+* Added new option to show featured image as header background on single post and page.
+* Removed show featured image in index and show featured image on single post or page settings, so we can add more post and page templates in next updates.
+* Added margin bottom to footer widgets when there is more than one widget in a column.
+
+= 1.8.2 =
+
+* Release Date: June 12, 2017
+
+* Fixed a bug that caused a fatal error when PHP it's not configured with --enable-bcmath.
+
+= 1.8.1 =
+
+* Release Date: June 10, 2017
+
+* Added content width setting.
+* Added a conditional check to output the slide button only if it's not empty.
+* Changed some style rules for WooCommerce products list.
+* Added smooth scroll functionality to anchor links.
+* Moved comments area and pagination area in independent blocks.
+* Added new image sizes. You need to use Regenerate Thumbnails to use them (https://wordpress.org/plugins/regenerate-thumbnails/).
+* Added new color settings.
+* Now you can add the slider when using WooCommerce shop page on front.
+
+= 1.8 =
+
+* Release Date: May 12, 2017
+
+* Changed menu appearance and settings.
+* Added navigation layout option.
+* Added setting to show compact menu on desktop.
+* Added setting to show a slider on front page.
+* Added new settings to customize the front page slider.
+* Added Header Area panel.
+* Added setting to set header height on front page.
+* Added setting to set header height on all pages except the front page.
+* Added hide elements metabox for Woocommerce single product post type.
+* Added setting to enable or disable sticky menu.
+* Deleted navigation position setting.
+* Deleted navigation alignment setting.
+* Dropped support for Internet Explorer 9.
+* Now Brand support Wordpress from version 4.5.
+
+
+= 1.7.2 =
+
+* Release Date: April 10, 2017
+
+* Updated Woocommerce template files.
+* Removed excess argument in a translation function.
+* Escaped some untrusted data.
+
+= 1.7.1 =
+
+* Release Date: April 8, 2017
+
+* Enhanced styles for comments and forms.
+* Enhanced Woocommerce styles.
+* Fixed a bug generating a warning when the ID property of the $post object isn't found.
+* Added theme support for Image zoom / magnification feature added in Woocommerce 3.0.
+* Added theme support for Lightbox feature added in Woocommerce 3.0.
+* Added theme support for Slider feature added in Woocommerce 3.0.
+* Removed a Woocommerce deprecated function.
+* Fixed a bug that accessing directly to the product ID property generating a warning.
+* Added non-minified version of Bootstrap stylesheets.
+* Added translators: and escaped some untrusted data.
+
+= 1.7 =
+
+* Release Date: April 2, 2017
+
+* Added option to set the page title width.
+* Added full width page template.
+* Fixed an issue that overwrites the color of the headings inside Brand sections.
+
+= 1.6.5 =
+
+* Release Date: March 31, 2017
+
+* The function that filters the content when a page used the sections add-on was moved in the pro version.
+* Minor styles changes.
+
+= 1.6.4 =
+
+* Release Date: March 15, 2017
+
+* Fixed bug which prevented the display of the sidebar when set within pages or posts.
+
+= 1.6.3 =
+
+* Release Date: March 14, 2017
+
+* Added brand_get_sidebar template tag.
+* Changed appearance to the table and posts navigation.
+* Changed the behavior of the mobile navigation: now it returns to the top level menu on closing.
+* Changed default setting to show featured image on single post or page from no to yes.
+* Deleted function that redirected to the theme settings page on theme activation.
+* Improved Woocommerce support.
+* Applied font style even to html root element.
+* Added section that links to pro version of the theme and deleted the button appended via javascript.
+* Deleted two unused variables.
+* Updated screenshot.
+* Added icon to sticky posts.
+* Enqueue brand-video script if is single post and is video post format or if is posts index.
+* Added iOS device detection to avoid issues when are used position:fixed or background-attachment:fixed.
+* Changed position to edit shortcut button in #wp-custom-header in Customizer.
+* Changed default setting for header alignment.
+* Changed default setting for header title color.
+* Changed default setting for navigation position.
+* Added default header image.
+
+= 1.6.2 =
+
+* Release Date: February 8, 2017
+
+* Added video post format layout.
+
+= 1.6.1 =
+
+* Release Date: February 6, 2017
+
+* Fixed bug that didn't display the logo in sticky navigation when logo position was inside header.
+* Added new option to display featured image without padding in posts index.
+
+= 1.6 =
+
+* Release Date: February 4, 2017
+
+* Changed page title layout.
+* Added brand_site_info action hook.
+* Added Selective Refresh support for site title and site description.
+* Moved Brand settings page in the Appearance menu.
+* Updated language file and some gettext functions.
+* Added a new function that adds a class to the body when the page has a custom header image.
+
+= 1.5.1 =
+
+* Release Date: January 26, 2017
+
+* Added options page.
+* Added automatic updates for the theme.
+* Changed transport setting for navigation position in Customizer from post message to refresh to avoid layout inconsistency.
+* Fixed a bug that generates a javascript error when header is hidden.
+
+= 1.4.1 =
+
+* Release Date: December 30, 2016
+
+* Sticky navigation now appears after scrolling of the header.
+* Eliminated some classes to the navigation wrapper element.
+* Added video header support on front page for WordPress 4.7 and above.
+* Updated Font Awesome to version 4.7.0
+
+= 1.3.1 =
+
+* Release Date: December 6, 2016
+
+* Now vertical primary navigation uses click to show or hide submenu.
+
+= 1.3.0 =
+
+* Release Date: November 30, 2016
+
+* Added footer widgets width setting and footer width setting in Customizer. Added instant live preview to footer widgets width and footer width.
+* Placed site title container in brand_site_title template tag.
+* Added header_title_color setting.
+* Eliminated brand_header_style callback.
+* Eliminated unused Customizer callback.
+* Floating navigation now follows site title.
+* Added sanitization functions for checkboxes and units.
+* Eliminated brand_logo_above_nav function.
+* Added brand_site_info_class function.
+* Minor changes in live preview.
+* Updated screenshot.
+* Updated language file.
+
+= 1.2.0 =
+
+* Release Date: November 19, 2016
+
+* Added float right and float left options in navigation position setting.
+* Fixed bug that prevented to get the vertical position of the scroll bar using scrollTop in Firefox.
+* Added new setting in Customizer to change the sub-navigation orientation.
+* Added instant live preview to several settings in Customizer.
+* Mobile navigation now uses the same hooks of the main navigation.
+* Added brand_use_sections function to check if the page uses the section add-on.
+
+= 1.1.0 =
+
+* Release Date: October 31, 2016
+
+* Added new option in sidebar metabox allowing user to choose the default setting for the sidebar position.
+* Added setting in Customizer to choose the position of the featured image in single posts and pages.
+* Added action hook: brand_before_singular_content.
+* Added action hook: brand_inside_singular_content_above.
+* Added a new layout for featured image.
+* Added  setting in the Customizer allowing to place featured image inside or before content area.
+* Added css rules to hide logo placed in the header or above navigation from small devices.
+* Added mobile logo upload setting in Customizer.
+* Added excerpt lenght setting in Customizer.
+* Added Jetpack infinite scroll support.
+* Added border default styles for form buttons.
+* Added brand_site_title and brand_title template tags.
+* Added floating option in navigation position setting.
+* Switching to conditional statements to show or hide main elements on pages and on single posts.
+* Reorganized  layout panel in Customizer
+* Changed default styles for form buttons.
+* Reorganized layout panel in Customizer.
+* Switching to conditional statements to show or hide main elements on pages and on single posts
+* Fixed a bug preventing image from being displayed in the image editor.
+* Fixed a bug preventing comments from being loaded in post and page editor.
+* Removed unused functions and files.
+* Added readme.txt.
+* Minor changes to style and layout.
+
+= 1.0.0 =
+
+* Release Date: October 5, 2016
+
+* Initial release

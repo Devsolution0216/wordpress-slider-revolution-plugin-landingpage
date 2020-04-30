@@ -1,0 +1,68 @@
+.maxsdesign-form-section {
+	display:table;
+	width:100%;
+	padding:20px 0px;
+	border-bottom:1px solid #eee;
+}
+
+.maxsdesign-form-section.text-editor-container {
+	display: block;
+}
+
+.maxsdesign-field-description {
+	display:table-cell;
+	 width:20%;
+}
+
+.maxsdesign-field-content {
+	display:table-cell;
+	width:80%;
+	padding-left:20px;
+	vertical-align:middle;
+}
+
+.maxsdesign-field-content input[type=text], .maxsdesign-field-content select, textarea {
+	min-width:20%;
+	height:35px;
+}
+
+.maxsdesign-form-section h4 {
+	margin-bottom:0px;
+}
+
+.maxsdesign-field-description p {
+    margin-top: 0;
+    color: #999;
+    font-style: italic;
+}
+
+.section-postbox .maxsdesign-field-content {
+	display:inline-block;
+	vertical-align:top;
+}
+
+.section-postbox .maxsdesign-field-content h4 {
+		margin-bottom: 10px;
+}
+
+@media (min-width: 1200px) {
+
+	.section-postbox .maxsdesign-field-content {
+		width:20%;
+		text-align: center;
+	}
+
+	.section-postbox .maxsdesign-field-content input[type=text] {
+		width: 50px;
+		min-width:50px;
+	}
+
+}
+
+@media (min-width: 1600px) {
+
+	.section-postbox .maxsdesign-field-content {
+		width:15%;
+	}
+
+}

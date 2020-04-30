@@ -1,0 +1,585 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: YITH WooCommerce Quick View\n"
+"POT-Creation-Date: 2017-10-11 12:42+0200\n"
+"PO-Revision-Date: 2017-10-11 12:42+0200\n"
+"Last-Translator: \n"
+"Language-Team: YIThemes <plugins@yithemes.com>\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n!=1;\n"
+"X-Poedit-KeywordsList: __ ;_e;_n:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPathExcluded-0: ../plugin-fw\n"
+
+#: ../includes/class.yith-wcqv-admin.php:129
+#: ../includes/class.yith-wcqv-admin.php:151
+msgid "Settings"
+msgstr "Impostazioni"
+
+#: ../includes/class.yith-wcqv-admin.php:130
+#: ../includes/class.yith-wcqv-admin.php:152
+msgid "Premium Version"
+msgstr "Versione premium"
+
+#: ../includes/class.yith-wcqv-admin.php:158
+#: ../includes/class.yith-wcqv-admin.php:159
+#: ../plugin-options/settings-options.php:57
+msgid "Quick View"
+msgstr "Quick view"
+
+#: ../includes/class.yith-wcqv-admin.php:213
+msgid "Plugin Documentation"
+msgstr "Documentazione plugin"
+
+#: ../init.php:41
+msgid ""
+"YITH WooCommerce Quick View is enabled but not effective. It requires "
+"WooCommerce in order to work."
+msgstr ""
+"YITH WooCommerce Quick View è abilitato ma non in funzione. Devi aver "
+"installato WooCommerce perché questo possa funzionare correttamente."
+
+#: ../init.php:50
+msgid ""
+"You can't activate the free version of YITH WooCommerce Quick View while you "
+"are using the premium one."
+msgstr ""
+"Non è possibile attivare la versione free di YITH WooCommerce Colors and "
+"Labels Variations se stai già utilizzando la premium."
+
+#: ../plugin-options/settings-options.php:8
+msgid "Upgrade to the PREMIUM VERSION"
+msgstr "Aggiorna alla VERSIONE PREMIUM"
+
+#: ../plugin-options/settings-options.php:11
+#: ../plugin-options/settings-options.php:18
+msgid "YITH WooCommerce Quick View"
+msgstr "YITH WooCommerce Quick View"
+
+#: ../plugin-options/settings-options.php:12
+msgid "Discover the Advanced Features"
+msgstr "Scopri le funzionalità avanzate"
+
+#: ../plugin-options/settings-options.php:13
+msgid ""
+"Upgrade to the PREMIUM VERSION of YITH WooCommerce Quick View to benefit "
+"from all features!"
+msgstr ""
+"Aggiorna alla VERSIONE PREMIUM di YITH WooCommerce Quick View per usufruire "
+"di tutte le sue funzionalità!"
+
+#: ../plugin-options/settings-options.php:20
+msgid "Get Support and Pro Features"
+msgstr "Ottieni supporto e funzionalità aggiuntive"
+
+#: ../plugin-options/settings-options.php:21
+msgid ""
+"By purchasing the premium version of the plugin, you will take advantage of "
+"the advanced features of the product and you will get one year of free "
+"updates and support through our platform available 24h/24."
+msgstr ""
+"Acquistando la versione premium del plugin, potrai beneficiare delle "
+"funzionalità avanzate del prodotto ed otterrai un anno di aggiornamenti "
+"gratuiti e supporto per mezzo della nostra piattaforma disponibile 24h/24."
+
+#: ../plugin-options/settings-options.php:31
+msgid "General Options"
+msgstr "Opzioni generali"
+
+#: ../plugin-options/settings-options.php:39
+msgid "Enable Quick View"
+msgstr "Abilita quick view"
+
+#: ../plugin-options/settings-options.php:46
+msgid "Enable Quick View on mobile"
+msgstr "Abilita quick view su dispositivi mobili"
+
+#: ../plugin-options/settings-options.php:47
+msgid "Enable quick view features on mobile device too"
+msgstr "Abilita funzionalità quick view anche sui dispositivi mobili"
+
+#: ../plugin-options/settings-options.php:54
+msgid "Quick View Button Label"
+msgstr "Testo pulsante quick view"
+
+#: ../plugin-options/settings-options.php:55
+msgid "Label for the quick view button in the WooCommerce loop."
+msgstr "Testo per il pulsante Quick view nella pagina shop di WooCommerce"
+
+#: ../plugin-options/settings-options.php:62
+msgid "Enable Lightbox"
+msgstr "Abilita lightbox"
+
+#: ../plugin-options/settings-options.php:63
+msgid "Enable lightbox. Product images will open in a lightbox."
+msgstr ""
+"Abilita la lightbox. Le immagini dei prodotti si apriranno in una lightbox."
+
+#: ../plugin-options/settings-options.php:74 ../templates/admin/premium.php:323
+#: ../templates/admin/premium.php:328
+msgid "Style Options"
+msgstr "Opzioni di stile"
+
+#: ../plugin-options/settings-options.php:81
+msgid "Modal Window Background Color"
+msgstr "Colore finestra modale"
+
+#: ../plugin-options/settings-options.php:89
+msgid "Closing Button Color"
+msgstr "Colore pulsante chiusura"
+
+#: ../plugin-options/settings-options.php:97
+msgid "Closing Button Hover Color"
+msgstr "Colore pulsante chiusura al passaggio del mouse"
+
+#: ../templates/admin/premium.php:210 ../templates/admin/premium.php:364
+#, php-format
+msgid ""
+"Upgrade to %1$spremium version%2$s of %1$sYITH WooCommerce Quick View%2$s to "
+"benefit from all features!"
+msgstr ""
+"Aggiorna alla %1$sversione premium%2$s di %1$sYITH WooCommerce Quick View"
+"%2$s per usufruire di tutte le sue funzionalità!"
+
+#: ../templates/admin/premium.php:213 ../templates/admin/premium.php:367
+msgid "UPGRADE"
+msgstr "AGGIORNA"
+
+#: ../templates/admin/premium.php:214 ../templates/admin/premium.php:368
+msgid "to the premium version"
+msgstr "alla versione premium"
+
+#: ../templates/admin/premium.php:220
+msgid "Premium Features"
+msgstr "Funzionalità premium"
+
+#: ../templates/admin/premium.php:223
+msgid "Button type"
+msgstr "Tipologia pulsante"
+
+#: ../templates/admin/premium.php:228
+msgid "BUTTON TYPE"
+msgstr "TIPOLOGIA PULSANTE"
+
+#: ../templates/admin/premium.php:230
+#, php-format
+msgid ""
+"Choose between the button or a custom icon to access the %1$sQuick View%2$s: "
+"you can choose to place it after the \"Add To Cart\" button or inside the "
+"thumbnail of the product."
+msgstr ""
+"Scegli tra il pulsante o un’icona personalizzata per avviare la %1$squick "
+"view%2$s: scegli tu se dopo il pulsante “Aggiungi al carrello” o sulla "
+"immagine thumbnail del prodotto."
+
+#: ../templates/admin/premium.php:238 ../templates/admin/premium.php:239
+#: ../templates/admin/premium.php:244
+msgid "Product Navigation"
+msgstr "Navigazione prodotti"
+
+#: ../templates/admin/premium.php:241
+#, php-format
+msgid ""
+"The navigation in the \"Quick View\" allows browsing among %1$sproducts%2$s "
+"displayed in it. The navigation arrows show on mousehover the image of the "
+"next/previous product."
+msgstr ""
+"La navigazione all’interno della visualizzazione rapida permette di scorrere "
+"tra i %1$sprodotti%2$s visualizzati. Quando si passa il cursore sulle frecce "
+"di navigazione, queste mostrano l’immagine del prodotto immediatamente "
+"successivo o precedente."
+
+#: ../templates/admin/premium.php:255 ../templates/admin/premium.php:256
+msgid "Content to display"
+msgstr "Contenuto da mostrare"
+
+#: ../templates/admin/premium.php:258
+#, php-format
+msgid ""
+"The display of the product information in the \"Quick View\" are managed by "
+"%1$sadministrators%2$s who can decide whether to show everything or only a "
+"part of it."
+msgstr ""
+"La visualizzazione delle informazioni del prodotto all’interno della “Quick "
+"View” sono gestite dall’%1$samministratore%2$s che può decidere se mostrare "
+"tutto o solo una parte di esse."
+
+#: ../templates/admin/premium.php:267
+msgid "Quick View Type"
+msgstr "Tipologia quick view"
+
+#: ../templates/admin/premium.php:269
+#, php-format
+msgid ""
+"Quick view has two different displaying modes: the first one opens it as a "
+"%1$smodal window%2$s, the other one opens it in the page itself with a "
+"%1$scascading effect%2$s above content page."
+msgstr ""
+"La visualizzazione rapida del prodotto può avvenire in due modi: all’interno "
+"di una %1$sfinestra modale%2$s o all’interno della stessa pagina con "
+"%1$seffetto a cascata%2$s sul resto del contenuto."
+
+#: ../templates/admin/premium.php:272
+msgid "Quick view type"
+msgstr "Tipologia quick view"
+
+#: ../templates/admin/premium.php:284
+msgid "\"View details\" button"
+msgstr "Pulsante “Visualizza dettagli”"
+
+#: ../templates/admin/premium.php:286
+msgid ""
+"An additional button that allows users to access product detail page "
+"directly from quick view window just with a click of the mouse."
+msgstr ""
+"Un pulsante aggiuntivo per permettere all’utente di accedere alla pagina "
+"dettaglio del prodotto direttamente dalla quick view con un semplice clic."
+
+#: ../templates/admin/premium.php:295
+msgid "Type of product images"
+msgstr "Tipologia immagini prodotto"
+
+#: ../templates/admin/premium.php:297
+#, php-format
+msgid ""
+"Each product can have more than one image: choose whether to hide or show "
+"them with the %1$sslider%2$s effect or in the classic %1$sWooCommerce%2$s "
+"display."
+msgstr ""
+"Ogni prodotto può avere ulteriori immagini oltre a quella in evidenza: "
+"scegli se nasconderle o mostrarle con %1$seffetto scorrimento%2$s o nella "
+"classica visualizzazione di %1$sWooCommerce%2$s."
+
+#: ../templates/admin/premium.php:312
+msgid "SHARE"
+msgstr "Condivisione"
+
+#: ../templates/admin/premium.php:314
+#, php-format
+msgid ""
+"%1$sQuick View is also social-friendly!%2$s Activating this option, you will "
+"be able to share the Quick View on Facebook, Twitter, Pinterest, Google+, or "
+"sending an email."
+msgstr ""
+"%1$sLa quick view è anche social%2$s! Abilitando l’opzione, potrà essere "
+"condivisa su Facebook, Twitter, Pinterest, Google+ e per email."
+
+#: ../templates/admin/premium.php:325
+#, php-format
+msgid ""
+"A rich option panel to change the colors of the %1$s\"Quick View\"%2$s "
+"button and of everything that is within the modal window generated."
+msgstr ""
+"Un ricco pannello opzioni per modificare i colori del pulsante %1$s“Quick "
+"View”%2$s e di tutto ciò che è all’interno della finestra modale generata."
+
+#: ../templates/admin/premium.php:340
+msgid "SHORTCODE"
+msgstr ""
+
+#: ../templates/admin/premium.php:342
+msgid ""
+"The shortcode of plugin is a $1$srapid$2$s and $1$seasy$2$s solution: you "
+"can add a button in any spot of the page to allow your users to see the "
+"quick view of a specific product in your store."
+msgstr ""
+
+#: ../templates/admin/premium.php:351
+msgid "Compatibility with other YITH's plugins"
+msgstr ""
+
+#: ../templates/admin/premium.php:353
+#, php-format
+msgid ""
+"Thanks to the compatibility with %1$sYITH WooCommerce Zoom Magnifier, YITH "
+"WooCommerce Badge Management%2$s and %1$sYITH WooCommerce Wishlist%2$s, you "
+"will be free to enrich further the content of your quick view.%3$s Zoom the "
+"product image, show a badge, or add the button to open the quick view in all "
+"products available in your users' wishlists. With YITH's plugins you make "
+"the difference."
+msgstr ""
+
+#~ msgid ""
+#~ "In the YIT Plugin tab you can find the YITH WooCommerce Quick View "
+#~ "options.\r\n"
+#~ "\t\t\t\t\t\t\t\t\t\tWith this menu, you can access to all the settings of "
+#~ "our plugins that you have activated.\r\n"
+#~ "\t\t\t\t\t\t\t\t\t\tYITH WooCommerce Quick View is available in an "
+#~ "outstanding PREMIUM version with many new options,\r\n"
+#~ "\t\t\t\t\t\t\t\t\t\t<a href=\""
+#~ msgstr ""
+#~ "Nella scheda YIT Plugins puoi trovare tutte le opzioni di YITH "
+#~ "WooCommerce Quick View.<br>Da questo menu potrai accedere a tutte le "
+#~ "impostazioni dei plugin YITH installati."
+
+#~ msgid ""
+#~ "The navigation in the \"Quick View\" allows browsing between the "
+#~ "%1$sproducts%2$s within the same %1$scategory%2$s. The navigation arrows "
+#~ "show on mousehover the image of the next/previous product."
+#~ msgstr ""
+#~ "La navigazione all’interno della visualizzazione rapida permette di "
+#~ "scorrere tra i %1$sprodotti%2$s visualizzati. Quando si passa il cursore "
+#~ "sulle frecce di navigazione, queste mostrano l’immagine del prodotto "
+#~ "immediatamente successivo o precedente."
+
+#~ msgid "General"
+#~ msgstr "Generali"
+
+#~ msgid "Product"
+#~ msgstr "Prodotto"
+
+#~ msgid "Style"
+#~ msgstr "Stile"
+
+#~ msgid "Quick View Navigation"
+#~ msgstr "Navigazione quick view"
+
+#~ msgid ""
+#~ "Enable product navigation on quick view. NOTE: only available on modal "
+#~ "window style."
+#~ msgstr ""
+#~ "Abilita scorrimento prodotti all\\’interno della quick view. NOTA: "
+#~ "disponibile solo per lo stile finestra modale."
+
+#~ msgid "Enable navigation in the same product category"
+#~ msgstr "Abilita navigazione nella stessa categoria prodotti"
+
+#~ msgid "Quick View Navigation Style"
+#~ msgstr "Stile navigazione quick view"
+
+#~ msgid "Slide ( thumbnail and product name )"
+#~ msgstr "Scorrimento (miniatura e nome prodotto)"
+
+#~ msgid "Rotate ( thumbnail )"
+#~ msgstr "Rotazione (miniatura)"
+
+#~ msgid "Modal Window"
+#~ msgstr "Finestra modale"
+
+#~ msgid "Cascading"
+#~ msgstr "A cascata"
+
+#~ msgid "Select modal effect"
+#~ msgstr "Selezione effetto modale"
+
+#~ msgid "Slide in"
+#~ msgstr "Scorrimento"
+
+#~ msgid "Fade in"
+#~ msgstr "Dissolvenza"
+
+#~ msgid "Scale up"
+#~ msgstr "Ingrandimento"
+
+#~ msgid "Modal Width"
+#~ msgstr "Larghezza finestra"
+
+#~ msgid "Set width of modal window."
+#~ msgstr "Selezione la larghezza della finestra modale"
+
+#~ msgid "Modal Height"
+#~ msgstr "Altezza finestra"
+
+#~ msgid "Set height of modal window."
+#~ msgstr "Seleziona l\\’altezza della finestra modale"
+
+#~ msgid "Button Options"
+#~ msgstr "Opzioni pulsante"
+
+#~ msgid "Quick View Button Type"
+#~ msgstr "Tipo di pulsante quick view"
+
+#~ msgid "Use button"
+#~ msgstr "Usa pulsante"
+
+#~ msgid "Use icon"
+#~ msgstr "Usa icona"
+
+#~ msgid "Quick View Button Icon"
+#~ msgstr "Icona pulsante quick view"
+
+#~ msgid "Icon for the quick view button in the WooCommerce loop."
+#~ msgstr "Icona per il pulsante Quick view nella pagina shop di WooCommerce"
+
+#~ msgid "Quick View Button Position"
+#~ msgstr "Posizione pulsante Quick view"
+
+#~ msgid "Position of the quick view button."
+#~ msgstr "Posizione del pulsante Quick view"
+
+#~ msgid "After 'add to cart' button"
+#~ msgstr "Dopo il pulsante \\‘Aggiungi al carrello\\’"
+
+#~ msgid "Inside product image"
+#~ msgstr "Dentro l\\’immagine prodotto"
+
+#~ msgid "Content Options"
+#~ msgstr "Opzioni contenuto"
+
+#~ msgid "Select Element to Show"
+#~ msgstr "Seleziona elemento da mostrare"
+
+#~ msgid "Show Product Image"
+#~ msgstr "Mostra immagine prodotto"
+
+#~ msgid "Show Product Name"
+#~ msgstr "Mostra nome prodotto"
+
+#~ msgid "Show Product Rating"
+#~ msgstr "Mostra valutazione prodotto"
+
+#~ msgid "Show Product Price"
+#~ msgstr "Mostra prezzo prodotto"
+
+#~ msgid "Show Product Excerpt"
+#~ msgstr "Mostra riepilogo prodotto"
+
+#~ msgid "Show Product Add To Cart"
+#~ msgstr "Mostra \\”Aggiungi al carrello\\” del prodotto"
+
+#~ msgid "Show Product Meta"
+#~ msgstr "Mostra meta prodotto"
+
+#~ msgid "Product Image Width"
+#~ msgstr "Larghezza immagine prodotto"
+
+#~ msgid "Set width of product image."
+#~ msgstr "Imposta la larghezza dell\\’immagine del prodotto."
+
+#~ msgid "Product Image Height"
+#~ msgstr "Altezza immagine prodotto"
+
+#~ msgid "Set height of product image."
+#~ msgstr "Imposta l\\’altezza dell\\’immagine del prodotto."
+
+#~ msgid "Select Thumbnails Type"
+#~ msgstr "Seleziona tipo di miniatura"
+
+#~ msgid "Don't show"
+#~ msgstr "Non mostrare"
+
+#~ msgid "Slider mode"
+#~ msgstr "Modalità scorrimento"
+
+#~ msgid "Classic mode"
+#~ msgstr "Modalità classica"
+
+#~ msgid "Add 'View Details' Button"
+#~ msgstr "Aggiungi pulsante \\’Visualizza dettagli\\’"
+
+#~ msgid "Check this option to add a button to go to the single product page."
+#~ msgstr ""
+#~ "Seleziona questa opzione per aggiungere un pulsante che riporti alla "
+#~ "pagina singolo prodotto."
+
+#~ msgid "'View Details' Button Label"
+#~ msgstr "Testo pulsante \\’Visualizza dettagli\\’"
+
+#~ msgid "Set label for 'View Details' button"
+#~ msgstr "Scegli il testo del pulsante \\’Visualizza dettagli\\’"
+
+#~ msgid "View Details"
+#~ msgstr "Visualizza dettagli"
+
+#~ msgid "Enable Ajax Add To Cart"
+#~ msgstr "Abilita \\“Aggiungi al carrello\\” in ajax"
+
+#~ msgid "Check this option to enable add to cart in ajax"
+#~ msgstr ""
+#~ "Seleziona questa opzione per abilitare il pulsante \\”Aggiungi al carrello"
+#~ "\\” in ajax"
+
+#~ msgid "Share Options"
+#~ msgstr "Opzioni di condivisione"
+
+#~ msgid "Enable Share"
+#~ msgstr "Abilita condivisione"
+
+#~ msgid ""
+#~ "Check this option if you want to show the share link for products in "
+#~ "quick view"
+#~ msgstr ""
+#~ "Seleziona questa opzione se vuoi mostrare il link di condivisione per i "
+#~ "prodotti nella quick view"
+
+#~ msgid "Select Socials"
+#~ msgstr "Seleziona social"
+
+#~ msgid "Facebook"
+#~ msgstr "Facebook"
+
+#~ msgid "Twitter"
+#~ msgstr "Twitter"
+
+#~ msgid "Google+"
+#~ msgstr "Google+"
+
+#~ msgid "Pinterest"
+#~ msgstr "Pinterest"
+
+#~ msgid "eMail"
+#~ msgstr "email"
+
+#~ msgid "General Style"
+#~ msgstr "Stile generale"
+
+#~ msgid "'Quick View' Button Color"
+#~ msgstr "Colore pulsante 'Quick View'"
+
+#~ msgid "'Quick View' Button Text Color"
+#~ msgstr "Colore testo pulsante 'Quick View'"
+
+#~ msgid "'Quick View' Button Hover Color "
+#~ msgstr "Colore pulsante 'Quick View' al passaggio del mouse"
+
+#~ msgid "'Quick View' Button Hover Text Color"
+#~ msgstr "Colore testo pulsante 'Quick View' al passaggio del mouse"
+
+#~ msgid "Content Style"
+#~ msgstr "Stile contenuto"
+
+#~ msgid "Main Text Color"
+#~ msgstr "Colore principale testo"
+
+#~ msgid "Star Color"
+#~ msgstr "Colore stellina"
+
+#~ msgid "'Add to Cart' Button Color"
+#~ msgstr "Colore pulsante ‘Aggiungi al carrello’"
+
+#~ msgid "'Add to Cart' Button Text Color"
+#~ msgstr "Colore testo pulsante ‘Aggiungi al carrello’"
+
+#~ msgid "'Add to Cart' Button Hover Color "
+#~ msgstr "Colore pulsante ‘Aggiungi al carrello’ al passaggio del mouse"
+
+#~ msgid "'Add to Cart' Button Hover Text Color"
+#~ msgstr "Colore testo pulsante ‘Aggiungi al carrello’ al passaggio del mouse"
+
+#~ msgid "'View Details' Button Color"
+#~ msgstr "Colore pulsante ‘Visualizza dettagli’"
+
+#~ msgid "'View Details' Button Text Color"
+#~ msgstr "Colore testo pulsante ‘Visualizza dettagli’"
+
+#~ msgid "'View Details' Button Hover Color "
+#~ msgstr "Colore pulsante ‘Visualizza dettagli’ al passaggio del mouse "
+
+#~ msgid "'View Details' Button Hover Text Color"
+#~ msgstr "Colore testo pulsante ‘Visualizza dettagli’ al passaggio del mouse "
+
+#~ msgid "Closing Icon Color"
+#~ msgstr "Colore icona chiusura"
+
+#~ msgid "Closing Icon Hover Color"
+#~ msgstr "Colore icona chiusura al passaggio del mouse"
+
+#~ msgid "May I ask you to see this product, please?"
+#~ msgstr "Posso chiederti di guardare questo prodotto, per favore?"

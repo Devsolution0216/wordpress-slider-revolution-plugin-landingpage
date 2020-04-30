@@ -1,0 +1,59 @@
+.has-front-page-custom-header #header-wrapper {
+  min-height: 100vh;
+  max-height: 100%;
+}
+
+#wp-custom-header video, iframe#wp-custom-header-video {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+  -ms-transform: translateX(-50%) translateY(-50%);
+	-moz-transform: translateX(-50%) translateY(-50%);
+	-webkit-transform: translateX(-50%) translateY(-50%);
+  transform: translateX(-50%) translateY(-50%);
+}
+
+#wp-custom-header {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+  clip: rect(auto,auto,auto,auto);
+}
+
+#wp-custom-header img {
+  width: auto;
+  height: auto;
+  max-width: 1000%;
+  min-height: 100%;
+  min-width: 100%;
+  min-width: 100vw;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translateX(-50%) translateY(-50%);
+	-moz-transform: translateX(-50%) translateY(-50%);
+	-webkit-transform: translateX(-50%) translateY(-50%);
+	transform: translateX(-50%) translateY(-50%);
+}
+
+@supports ( object-fit: cover ) {
+	#wp-custom-header img {
+    width:100%;
+		height: 100%;
+		-o-object-fit: cover;
+		object-fit: cover;
+    top: 0;
+    left: 0;
+    -ms-transform: none;
+  	-moz-transform: none;
+  	-webkit-transform: none;
+  	transform: none;
+	}
+}

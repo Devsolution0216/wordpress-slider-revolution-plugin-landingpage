@@ -1,0 +1,274 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: YITH WooCommerce Quick View\n"
+"POT-Creation-Date: 2017-10-11 12:42+0200\n"
+"PO-Revision-Date: 2015-05-18 11:52+0100\n"
+"Last-Translator: \n"
+"Language-Team: YIThemes <plugins@yithemes.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n!=1;\n"
+"X-Poedit-KeywordsList: __ ;_e;_n:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPathExcluded-0: ../plugin-fw\n"
+
+#: ../includes/class.yith-wcqv-admin.php:129
+#: ../includes/class.yith-wcqv-admin.php:151
+msgid "Settings"
+msgstr ""
+
+#: ../includes/class.yith-wcqv-admin.php:130
+#: ../includes/class.yith-wcqv-admin.php:152
+msgid "Premium Version"
+msgstr ""
+
+#: ../includes/class.yith-wcqv-admin.php:158
+#: ../includes/class.yith-wcqv-admin.php:159
+#: ../plugin-options/settings-options.php:57
+msgid "Quick View"
+msgstr ""
+
+#: ../includes/class.yith-wcqv-admin.php:213
+msgid "Plugin Documentation"
+msgstr ""
+
+#: ../init.php:41
+msgid ""
+"YITH WooCommerce Quick View is enabled but not effective. It requires "
+"WooCommerce in order to work."
+msgstr ""
+
+#: ../init.php:50
+msgid ""
+"You can't activate the free version of YITH WooCommerce Quick View while you "
+"are using the premium one."
+msgstr ""
+
+#: ../plugin-options/settings-options.php:8
+msgid "Upgrade to the PREMIUM VERSION"
+msgstr ""
+
+#: ../plugin-options/settings-options.php:11
+#: ../plugin-options/settings-options.php:18
+msgid "YITH WooCommerce Quick View"
+msgstr ""
+
+#: ../plugin-options/settings-options.php:12
+msgid "Discover the Advanced Features"
+msgstr ""
+
+#: ../plugin-options/settings-options.php:13
+msgid ""
+"Upgrade to the PREMIUM VERSION of YITH WooCommerce Quick View to benefit "
+"from all features!"
+msgstr ""
+
+#: ../plugin-options/settings-options.php:20
+msgid "Get Support and Pro Features"
+msgstr ""
+
+#: ../plugin-options/settings-options.php:21
+msgid ""
+"By purchasing the premium version of the plugin, you will take advantage of "
+"the advanced features of the product and you will get one year of free "
+"updates and support through our platform available 24h/24."
+msgstr ""
+
+#: ../plugin-options/settings-options.php:31
+msgid "General Options"
+msgstr ""
+
+#: ../plugin-options/settings-options.php:39
+msgid "Enable Quick View"
+msgstr ""
+
+#: ../plugin-options/settings-options.php:46
+msgid "Enable Quick View on mobile"
+msgstr ""
+
+#: ../plugin-options/settings-options.php:47
+msgid "Enable quick view features on mobile device too"
+msgstr ""
+
+#: ../plugin-options/settings-options.php:54
+msgid "Quick View Button Label"
+msgstr ""
+
+#: ../plugin-options/settings-options.php:55
+msgid "Label for the quick view button in the WooCommerce loop."
+msgstr ""
+
+#: ../plugin-options/settings-options.php:62
+msgid "Enable Lightbox"
+msgstr ""
+
+#: ../plugin-options/settings-options.php:63
+msgid "Enable lightbox. Product images will open in a lightbox."
+msgstr ""
+
+#: ../plugin-options/settings-options.php:74 ../templates/admin/premium.php:323
+#: ../templates/admin/premium.php:328
+msgid "Style Options"
+msgstr ""
+
+#: ../plugin-options/settings-options.php:81
+msgid "Modal Window Background Color"
+msgstr ""
+
+#: ../plugin-options/settings-options.php:89
+msgid "Closing Button Color"
+msgstr ""
+
+#: ../plugin-options/settings-options.php:97
+msgid "Closing Button Hover Color"
+msgstr ""
+
+#: ../templates/admin/premium.php:210 ../templates/admin/premium.php:364
+#, php-format
+msgid ""
+"Upgrade to %1$spremium version%2$s of %1$sYITH WooCommerce Quick View%2$s to "
+"benefit from all features!"
+msgstr ""
+
+#: ../templates/admin/premium.php:213 ../templates/admin/premium.php:367
+msgid "UPGRADE"
+msgstr ""
+
+#: ../templates/admin/premium.php:214 ../templates/admin/premium.php:368
+msgid "to the premium version"
+msgstr ""
+
+#: ../templates/admin/premium.php:220
+msgid "Premium Features"
+msgstr ""
+
+#: ../templates/admin/premium.php:223
+msgid "Button type"
+msgstr ""
+
+#: ../templates/admin/premium.php:228
+msgid "BUTTON TYPE"
+msgstr ""
+
+#: ../templates/admin/premium.php:230
+#, php-format
+msgid ""
+"Choose between the button or a custom icon to access the %1$sQuick View%2$s: "
+"you can choose to place it after the \"Add To Cart\" button or inside the "
+"thumbnail of the product."
+msgstr ""
+
+#: ../templates/admin/premium.php:238 ../templates/admin/premium.php:239
+#: ../templates/admin/premium.php:244
+msgid "Product Navigation"
+msgstr ""
+
+#: ../templates/admin/premium.php:241
+#, php-format
+msgid ""
+"The navigation in the \"Quick View\" allows browsing among %1$sproducts%2$s "
+"displayed in it. The navigation arrows show on mousehover the image of the "
+"next/previous product."
+msgstr ""
+
+#: ../templates/admin/premium.php:255 ../templates/admin/premium.php:256
+msgid "Content to display"
+msgstr ""
+
+#: ../templates/admin/premium.php:258
+#, php-format
+msgid ""
+"The display of the product information in the \"Quick View\" are managed by "
+"%1$sadministrators%2$s who can decide whether to show everything or only a "
+"part of it."
+msgstr ""
+
+#: ../templates/admin/premium.php:267
+msgid "Quick View Type"
+msgstr ""
+
+#: ../templates/admin/premium.php:269
+#, php-format
+msgid ""
+"Quick view has two different displaying modes: the first one opens it as a "
+"%1$smodal window%2$s, the other one opens it in the page itself with a "
+"%1$scascading effect%2$s above content page."
+msgstr ""
+
+#: ../templates/admin/premium.php:272
+msgid "Quick view type"
+msgstr ""
+
+#: ../templates/admin/premium.php:284
+msgid "\"View details\" button"
+msgstr ""
+
+#: ../templates/admin/premium.php:286
+msgid ""
+"An additional button that allows users to access product detail page "
+"directly from quick view window just with a click of the mouse."
+msgstr ""
+
+#: ../templates/admin/premium.php:295
+msgid "Type of product images"
+msgstr ""
+
+#: ../templates/admin/premium.php:297
+#, php-format
+msgid ""
+"Each product can have more than one image: choose whether to hide or show "
+"them with the %1$sslider%2$s effect or in the classic %1$sWooCommerce%2$s "
+"display."
+msgstr ""
+
+#: ../templates/admin/premium.php:312
+msgid "SHARE"
+msgstr ""
+
+#: ../templates/admin/premium.php:314
+#, php-format
+msgid ""
+"%1$sQuick View is also social-friendly!%2$s Activating this option, you will "
+"be able to share the Quick View on Facebook, Twitter, Pinterest, Google+, or "
+"sending an email."
+msgstr ""
+
+#: ../templates/admin/premium.php:325
+#, php-format
+msgid ""
+"A rich option panel to change the colors of the %1$s\"Quick View\"%2$s "
+"button and of everything that is within the modal window generated."
+msgstr ""
+
+#: ../templates/admin/premium.php:340
+msgid "SHORTCODE"
+msgstr ""
+
+#: ../templates/admin/premium.php:342
+msgid ""
+"The shortcode of plugin is a $1$srapid$2$s and $1$seasy$2$s solution: you "
+"can add a button in any spot of the page to allow your users to see the "
+"quick view of a specific product in your store."
+msgstr ""
+
+#: ../templates/admin/premium.php:351
+msgid "Compatibility with other YITH's plugins"
+msgstr ""
+
+#: ../templates/admin/premium.php:353
+#, php-format
+msgid ""
+"Thanks to the compatibility with %1$sYITH WooCommerce Zoom Magnifier, YITH "
+"WooCommerce Badge Management%2$s and %1$sYITH WooCommerce Wishlist%2$s, you "
+"will be free to enrich further the content of your quick view.%3$s Zoom the "
+"product image, show a badge, or add the button to open the quick view in all "
+"products available in your users' wishlists. With YITH's plugins you make "
+"the difference."
+msgstr ""

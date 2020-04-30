@@ -1,0 +1,152 @@
+// Settings Access tab styles.
+
+.wpforms-admin-settings-access {
+
+	font-size: 14px;
+	color: #444444;
+
+	.wpforms-setting-row {
+		padding: 30px 0;
+	}
+
+	.wpforms-setting-field {
+		margin: 0;
+		max-width: none;
+	}
+
+	.heading {
+		h4 {
+			font-weight: 600;
+			margin-bottom: 10px;
+			color: #23282D;
+
+			img {
+				margin-left: 10px;
+			}
+
+		}
+
+		p {
+			margin: 0;
+			line-height: 20px;
+			letter-spacing: 0;
+		}
+	}
+
+	.screenshots {
+		padding-bottom: 55px;
+
+		& > * {
+			vertical-align: middle;
+		}
+
+		.cont {
+			display: inline-block;
+			position: relative;
+			width: 240px;
+			padding: 5px;
+			background-color: #ffffff;
+			-webkit-box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.05);
+			-moz-box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.05);
+			box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.05);
+			border-radius: 3px;
+			margin-right: 40px;
+
+			img {
+				max-width: 100%;
+				display: block;
+			}
+
+			.hover {
+				position: absolute;
+				opacity: 0;
+				height: 100%;
+				width: 100%;
+				top: 0;
+				left: 0;
+				border: 5px solid #ffffff;
+				background-color: rgba(68, 68, 68, 0.15);
+				background-image: url('../../../assets/images/zoom.svg');
+				background-repeat: no-repeat;
+				background-position: center;
+				background-size: 50px;
+				transition: all 0.3s;
+
+				&:focus {
+					box-shadow: none;
+				}
+			}
+
+			&:hover .hover {
+				opacity: 1;
+				transition: all 0.3s;
+			}
+
+			span {
+				position: absolute;
+				bottom: -25px;
+				left: 50%;
+				transform: translateX( -50% );
+				font-size: 14px;
+				color: #777777;
+				white-space: nowrap;
+			}
+		}
+	}
+
+	.caps {
+		p {
+			margin: 0;
+		}
+
+		ul {
+			display: inline-block;
+			width: 240px;
+			margin: 20px 40px 0 0;
+			vertical-align: top;
+
+			li:last-child {
+				margin-bottom: 0;
+			}
+		}
+
+		li {
+			line-height: 14px;
+			margin: 0 0 22px 0;
+			padding: 0 0 0 30px;
+			background-image: url('../../../assets/images/check-solid.svg');
+			background-position: left center;
+			background-repeat: no-repeat;
+			background-size: 16px 12px;
+		}
+	}
+
+	.upgrade {
+		border-bottom: none;
+	}
+}
+
+@media (max-width: 917px) {
+	#wpforms-settings-access {
+
+		.screenshots {
+			.cont {
+				margin-bottom: 40px;
+
+				&:last-child {
+					margin-bottom: 0;
+				}
+			}
+		}
+
+		.caps {
+			ul {
+				margin-bottom: 20px;
+
+				&:last-child {
+					margin-bottom: 0;
+				}
+			}
+		}
+	}
+}

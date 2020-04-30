@@ -1,0 +1,120 @@
+.hidden {
+	display: none !important;
+	visibility: hidden !important;
+}
+
+.tawcvs-swatches {
+	/*overflow: hidden;*/
+	padding: 5px;
+}
+
+.tawcvs-swatches .swatch {
+	-webkit-transition: all 0.3s;
+	-moz-transition: all 0.3s;
+	-ms-transition: all 0.3s;
+	-o-transition: all 0.3s;
+	transition: all 0.3s;
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+	border-radius: 50%;
+	display: inline-block;
+	width: 30px;
+	height: 30px;
+	line-height: 30px;
+	text-align: center;
+	margin-right: 15px;
+	cursor: pointer;
+	border: 1px solid transparent;
+	position: relative;
+}
+
+.tawcvs-swatches .swatch.selected {
+	-webkit-box-shadow: 0 0 5px;
+	-moz-box-shadow: 0 0 5px;
+	box-shadow: 0 0 5px;
+	border-color: #999;
+}
+
+.tawcvs-swatches .swatch.disabled {
+	opacity: 0.1;
+}
+
+.tawcvs-swatches .swatch-color {
+	text-indent: -9999em;
+	border: 2px solid #ccc;
+}
+
+.tawcvs-swatches .swatch-color.selected {
+	border-color: #333;
+}
+
+.tawcvs-swatches .swatch-color.selected:before {
+	-webkit-transform: translate(-50%, -50%) rotate(45deg);
+	-moz-transform: translate(-50%, -50%) rotate(45deg);
+	transform: translate(-50%, -50%) rotate(45deg);
+	content: "";
+	width: 6px;
+	height: 10px;
+	display: block;
+	border: solid #eee;
+	border-width: 0 2px 2px 0;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin: -2px -2px 0 0;
+}
+
+.tawcvs-swatches .swatch-label {
+	background-color: #f1f1f1;
+}
+
+.tawcvs-swatches .swatch-image {
+	overflow: hidden;
+}
+
+.tawcvs-swatches .swatch__tooltip {
+	-webkit-transform: translate(-50%, -100%);
+	-moz-transform: translate(-50%, -100%);
+	transform: translate(-50%, -100%);
+	-webkit-transition: all 0.3s;
+	-moz-transition: all 0.3s;
+	-ms-transition: all 0.3s;
+	-o-transition: all 0.3s;
+	transition: all 0.3s;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	position: absolute;
+	left: 50%;
+	top: 0;
+	background: #333;
+	z-index: 2;
+	color: #fff;
+	margin: -15px 0 0 0;
+	padding: 5px 10px;
+	text-indent: initial;
+	font-size: 14px;
+	font-weight: 500;
+	opacity: 0;
+	visibility: hidden;
+	user-select: none;
+}
+
+.tawcvs-swatches .swatch__tooltip:after {
+	-webkit-transform: rotate(45deg);
+	-moz-transform: rotate(45deg);
+	transform: rotate(45deg);
+	content: "";
+	position: absolute;
+	width: 12px;
+	height: 12px;
+	background: #333;
+	bottom: -4px;
+	left: 50%;
+	margin-left: -6px;
+}
+.tawcvs-swatches .swatch:hover .swatch__tooltip {
+	opacity: 1;
+	visibility: visible;
+	user-select: auto;
+}

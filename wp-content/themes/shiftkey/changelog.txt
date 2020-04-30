@@ -1,0 +1,40 @@
+1.0.6 - 31th July, 2019
+Changeslog:
+1. Posts template updated
+2. Posts carousel loop added
+3. CSS fixed
+
+1.0.5 - 26th July, 2019
+Changeslog:
+1. PHP 5.6 bug fixed
+2. TGMPA plugin installtion issues fixed
+
+
+1.0.4 - 22th July, 2019
+Changeslog:
+1. JS Composer plugin Updated
+2. CSS fixded
+
+1.0.3 - 14th July, 2019
+Changeslog:
+1. RTL Updated .
+2. CSS fixed .
+3. JS fixed .
+
+1.0.2 - 12th July, 2019
+Changeslog:
+1. Toogle navbar collapsed issues fixed
+2. Popup video bug fixed
+2. CSS updated
+3. JS updated
+
+
+1.0.1 - 10th July, 2019
+Changeslog:
+1. Logo dimension issues fixed
+2. Demo data updated
+2. CSS updated
+3. JS updated
+
+1.0.0 - 5th July, 2019
+-Initial Release

@@ -1,0 +1,47 @@
+
+/*
+** Reminder for rating
+*/
+.notice.brand-reminder {
+  display: flex;
+  flex-flow: row nowrap;
+  align-items: left;
+  padding: 0;
+}
+.brand-message {
+  display: flex;
+  flex-flow: column;
+  justify-content: space-between;
+  padding: 30px;
+  box-sizing: border-box;
+}
+
+.brand-message span > a {
+  font-weight:600;
+}
+
+.brand-message b {
+  margin-bottom:20px;
+  line-height:1.7;
+}
+
+.brand-message span > a:not(:last-child) {
+  margin-right:10px;
+}
+
+.brand-message  a.delete-rate-reminder,
+.brand-message a.ask-later{
+ color:#999;
+}
+
+@media(max-width:400px) {
+  .notice.brand-reminder #brand-author-avatar {
+    display: none;
+  }
+}
+
+@media(max-width:768px) {
+  .brand-message span > a:not(:last-child) {
+  margin-bottom:20px;
+}
+}

@@ -1,0 +1,11 @@
+1.0.4
+1. Gradient param type included
+
+1.0.2
+1. Helper functions added
+
+1.0.1
+1. PerchVcMap->element_group_typography added for element settings
+Output: perch_generate_input_field_html_by_settings($html, $typo_settings, $atts);
+2.Counter up typography option includedcolor
+

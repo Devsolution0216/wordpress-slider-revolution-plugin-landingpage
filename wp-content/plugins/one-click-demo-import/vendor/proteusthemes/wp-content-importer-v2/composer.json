@@ -1,0 +1,17 @@
+{
+  "name": "proteusthemes/wp-content-importer-v2",
+  "description": "WP content importer v2 forked from humanmade/wordpress-importer.",
+  "keywords": ["wp", "wordpress", "proteusthemes", "theme", "import", "content"],
+  "license": "GPL-2.0+",
+  "authors": [
+    {
+      "name"     : "Contributors",
+      "homepage" : "https://github.com/humanmade/WordPress-Importer/graphs/contributors"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "ProteusThemes\\WPContentImporter2\\": "src/"
+    }
+  }
+}

@@ -1,0 +1,186 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WP PayPal\n"
+"POT-Creation-Date: 2019-01-17 10:51+0600\n"
+"PO-Revision-Date: 2015-11-26 16:17+1000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.13\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: main.php:75
+msgid ""
+"WP PayPal Debug log file is not writable. Please check to make sure that it "
+"has the correct file permission (ideally 644). Otherwise the plugin will not "
+"be able to write to the log file. The log file (log.txt) can be found in the "
+"root directory of the plugin - "
+msgstr ""
+
+#: main.php:131 main.php:138
+msgid "Settings"
+msgstr ""
+
+#: main.php:139
+msgid "Debug"
+msgstr ""
+
+#: main.php:145
+msgid "General"
+msgstr ""
+
+#: main.php:147 wp-paypal-order.php:7
+msgid "WP PayPal"
+msgstr ""
+
+#: main.php:149
+#, php-format
+msgid ""
+"Please visit the <a target=\"_blank\" href=\"%s\">WP PayPal</a> "
+"documentation page for usage instructions."
+msgstr ""
+
+#: main.php:188 main.php:242
+msgid "Settings Saved"
+msgstr ""
+
+#: main.php:201
+msgid "Enable Test Mode"
+msgstr ""
+
+#: main.php:204
+msgid "Check this option if you want to enable PayPal sandbox for testing"
+msgstr ""
+
+#: main.php:209
+msgid "PayPal Email"
+msgstr ""
+
+#: main.php:211
+msgid "Your PayPal email address"
+msgstr ""
+
+#: main.php:215
+msgid "Currency Code"
+msgstr ""
+
+#: main.php:217
+msgid "The currency of the payment"
+msgstr ""
+
+#: main.php:217
+msgid "example"
+msgstr ""
+
+#: main.php:224 main.php:275
+msgid "Save Changes"
+msgstr ""
+
+#: main.php:232
+msgid "WP PayPal Debug Log"
+msgstr ""
+
+#: main.php:250
+msgid "Debug log file has been reset"
+msgstr ""
+
+#: main.php:252
+msgid "Debug log file could not be reset"
+msgstr ""
+
+#: main.php:265
+msgid "Enable Debug"
+msgstr ""
+
+#: main.php:268
+msgid "Check this option if you want to enable debug"
+msgstr ""
+
+#: main.php:279
+msgid "Reset Log"
+msgstr ""
+
+#: main.php:503
+msgid "Amount cannot be empty"
+msgstr ""
+
+#: wp-paypal-order.php:5
+msgid "Orders"
+msgstr ""
+
+#: wp-paypal-order.php:6 wp-paypal-order.php:8 wp-paypal-order.php:44
+msgid "Order"
+msgstr ""
+
+#: wp-paypal-order.php:9
+msgid "Add New"
+msgstr ""
+
+#: wp-paypal-order.php:10
+msgid "Add New Order"
+msgstr ""
+
+#: wp-paypal-order.php:11
+msgid "New Order"
+msgstr ""
+
+#: wp-paypal-order.php:12
+msgid "Edit Order"
+msgstr ""
+
+#: wp-paypal-order.php:13
+msgid "View Order"
+msgstr ""
+
+#: wp-paypal-order.php:14
+msgid "All Orders"
+msgstr ""
+
+#: wp-paypal-order.php:15
+msgid "Search Orders"
+msgstr ""
+
+#: wp-paypal-order.php:16
+msgid "Parent Orders:"
+msgstr ""
+
+#: wp-paypal-order.php:17
+msgid "No Orders found."
+msgstr ""
+
+#: wp-paypal-order.php:18
+msgid "No orders found in Trash."
+msgstr ""
+
+#: wp-paypal-order.php:45 wp-paypal-order.php:76
+msgid "Transaction ID"
+msgstr ""
+
+#: wp-paypal-order.php:46
+msgid "First Name"
+msgstr ""
+
+#: wp-paypal-order.php:47
+msgid "Last Name"
+msgstr ""
+
+#: wp-paypal-order.php:48
+msgid "Total"
+msgstr ""
+
+#: wp-paypal-order.php:49 wp-paypal-order.php:66
+msgid "Payment Status"
+msgstr ""
+
+#: wp-paypal-order.php:50
+msgid "Date"
+msgstr ""
+
+#: wp-paypal-order.php:71
+msgid "Payment Type"
+msgstr ""

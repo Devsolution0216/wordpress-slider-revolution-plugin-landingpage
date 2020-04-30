@@ -1,0 +1,153 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-22 10:41+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: variation-swatches-for-woocommerce.php:35
+msgid ""
+"Variation Swatcher for WooCommerce is enabled but not effective. It requires "
+"WooCommerce in order to work."
+msgstr ""
+
+#: variation-swatches-for-woocommerce.php:50
+msgid ""
+"No need to activate the free version of Variation Swatcher for WooCommerce "
+"plugin while the pro version is activated."
+msgstr ""
+
+#: includes/class-admin-product.php:34
+msgid "Select terms"
+msgstr ""
+
+#: includes/class-admin-product.php:45
+msgid "Select all"
+msgstr ""
+
+#: includes/class-admin-product.php:46
+msgid "Select none"
+msgstr ""
+
+#: includes/class-admin-product.php:47
+msgid "Add new"
+msgstr ""
+
+#: includes/class-admin-product.php:64
+msgid "Wrong request"
+msgstr ""
+
+#: includes/class-admin-product.php:68
+msgid "Not enough data"
+msgstr ""
+
+#: includes/class-admin-product.php:72
+msgid "Taxonomy is not exists"
+msgstr ""
+
+#: includes/class-admin-product.php:76
+msgid "This term is exists"
+msgstr ""
+
+#: includes/class-admin-product.php:90
+msgid "Added successfully"
+msgstr ""
+
+#: includes/class-admin-product.php:113
+msgid "Add new term"
+msgstr ""
+
+#: includes/class-admin-product.php:117
+msgid "Name"
+msgstr ""
+
+#: includes/class-admin-product.php:123
+msgid "Slug"
+msgstr ""
+
+#: includes/class-admin-product.php:135
+msgid "Cancel"
+msgstr ""
+
+#: includes/class-admin-product.php:136
+msgid "Add New"
+msgstr ""
+
+#: includes/class-admin-product.php:146
+#: includes/class-variation-swatches.php:39
+msgid "Color"
+msgstr ""
+
+#: includes/class-admin-product.php:153
+#: includes/class-variation-swatches.php:40
+msgid "Image"
+msgstr ""
+
+#: includes/class-admin-product.php:159 includes/class-admin.php:235
+msgid "Upload/Add image"
+msgstr ""
+
+#: includes/class-admin-product.php:160 includes/class-admin.php:236
+msgid "Remove image"
+msgstr ""
+
+#: includes/class-admin-product.php:168
+#: includes/class-variation-swatches.php:41
+msgid "Label"
+msgstr ""
+
+#: includes/class-admin.php:93
+msgid "Choose an image"
+msgstr ""
+
+#: includes/class-admin.php:94
+msgid "Use image"
+msgstr ""
+
+#: includes/class-admin.php:110
+msgid ""
+"Found a backup of product attributes types. This backup was generated at"
+msgstr ""
+
+#: includes/class-admin.php:116
+msgid "Restore product attributes types"
+msgstr ""
+
+#: includes/class-admin.php:120
+msgid "Dismiss this notice"
+msgstr ""
+
+#: includes/class-admin.php:128
+msgid "All attributes types have been restored."
+msgstr ""
+
+#. Name of the plugin
+msgid "Variation Swatcher for WooCommerce"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"An extension of WooCommerce to make variable products be more beauty and "
+"friendly to users."
+msgstr ""
+
+#. URI of the plugin
+msgid "http://themealien.com/wordpress-plugin/woocommerce-variation-swatches"
+msgstr ""
+
+#. Author of the plugin
+msgid "ThemeAlien"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://themealien.com/"
+msgstr ""
